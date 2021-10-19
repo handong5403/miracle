@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1230993891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9618437b272c34e4e6f2bb9438eacfcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6af8da4f5b97625076e5047c6faa0da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/Login/LoginView.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d

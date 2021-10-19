@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1559374775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791d8815bddb730edea60b6b6dcc5eaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/SpriteAltas/PassPort/PassPort.spriteatlas
+Dependencies: []

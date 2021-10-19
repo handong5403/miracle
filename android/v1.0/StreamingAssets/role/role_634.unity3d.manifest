@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2912503804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9cd432b49f157a1b9d138fd0048b2f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6df3030e65e328583eab0113a5144d0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Role/Role_634/Role_63405.prefab
+- Assets/ArtResources/Role/Role_634/Role_63406.prefab
+- Assets/ArtResources/Role/Role_634/Role_63407.prefab
+- Assets/ArtResources/Role/Role_634/Role_63403.prefab
+- Assets/ArtResources/Role/Role_634/Role_63408.prefab
+- Assets/ArtResources/Role/Role_634/Role_63409.prefab
+- Assets/ArtResources/Role/Role_634/Role_63402.prefab
+- Assets/ArtResources/Role/Role_634/Role_63404.prefab
+- Assets/ArtResources/Role/Role_634/Role_63410.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/elephant/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/elephant/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/elephant/lv7-lv9.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

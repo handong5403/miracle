@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3827391484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c524ec14c58a322a924e7e91b466eb7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6df3030e65e328583eab0113a5144d0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Role/Role_609/Role_60907.prefab
+- Assets/ArtResources/Role/Role_609/Role_60908.prefab
+- Assets/ArtResources/Role/Role_609/Role_60904.prefab
+- Assets/ArtResources/Role/Role_609/Role_60906.prefab
+- Assets/ArtResources/Role/Role_609/Role_60902.prefab
+- Assets/ArtResources/Role/Role_609/Role_60903.prefab
+- Assets/ArtResources/Role/Role_609/Role_60909.prefab
+- Assets/ArtResources/Role/Role_609/Role_60905.prefab
+- Assets/ArtResources/Role/Role_609/Role_60910.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/seaeagle/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/seaeagle/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/seaeagle/lv7-lv9.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

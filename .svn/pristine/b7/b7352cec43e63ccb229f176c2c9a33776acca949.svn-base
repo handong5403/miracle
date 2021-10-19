@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 548932955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e404d2331d8a211a1f622cceb60ea13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/util/dkjson.bytes
+- Assets/tempStreamingAssets/lua/lua/util/stringextend.bytes
+- Assets/tempStreamingAssets/lua/lua/util/random.bytes
+- Assets/tempStreamingAssets/lua/lua/util/baseclass.bytes
+- Assets/tempStreamingAssets/lua/lua/util/sdatatime.bytes
+- Assets/tempStreamingAssets/lua/lua/util/uibaseview.bytes
+- Assets/tempStreamingAssets/lua/lua/util/uibase.bytes
+- Assets/tempStreamingAssets/lua/lua/util/netcom.bytes
+- Assets/tempStreamingAssets/lua/lua/util/timebase.bytes
+- Assets/tempStreamingAssets/lua/lua/util/localizer.bytes
+Dependencies: []

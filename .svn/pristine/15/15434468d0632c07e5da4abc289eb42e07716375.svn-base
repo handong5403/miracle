@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2198742552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa1c3cd67d7cca79ba774d617e8a36d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/SpriteAltas/HomeFloor/HomeFloor.spriteatlas
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3259470407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff26250d58bbfadb946c205385140ea9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/SpriteAltas/ActivityCommon/ActivityCommon.spriteatlas
+- Assets/ArtResources/SpriteAltas/Activity_1/Activity_1.spriteatlas
+- Assets/ArtResources/SpriteAltas/DailyTask/DailyTask.spriteatlas
+Dependencies: []

@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 2205182710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80823860e976bf5a7f1af582dd23036b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d53fc9a57968002c3e1d811771d66bec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aaa8d5078f496f40a435abcbfb0542b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f590f772bd942f24096367a14401187a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca86fc57535713941bde4b92d7bec3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_gift5.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_Oncegift_home.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_Oncegift.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarriermission.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierDetailView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierEntrancePreviewView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_Freegift.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/Chanceitem.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierFinshView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierExchangeView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_package.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierPackageSaleView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierFinalRewardView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierEntranceView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_explore.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ExploreItem.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_exchange_content.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_gift4.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierProgressView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ActivityBarrierRewardView.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_gift3.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_bg.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/go_content.prefab
+- Assets/ArtResources/UI/Prefab/ActivityBarrier/ExChangeItem.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/home.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/mode_1.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/mode_4.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/rolebag.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/shop.unity3d

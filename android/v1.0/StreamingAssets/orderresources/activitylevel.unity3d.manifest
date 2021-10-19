@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2869249162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83155df954c6ecb3e9cc8a2a82faa26d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a2eb74e0559ef57955f05c62a3fc9bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/OrderResources/Activitylevel/cwhd1.png
+- Assets/ArtResources/OrderResources/Activitylevel/hdi1.png
+- Assets/ArtResources/OrderResources/Activitylevel/wsj1.png
+- Assets/ArtResources/OrderResources/Activitylevel/bxhd1.png
+- Assets/ArtResources/OrderResources/Activitylevel/sdj1.png
+- Assets/ArtResources/OrderResources/Activitylevel/cwhd2.png
+- Assets/ArtResources/OrderResources/Activitylevel/toy_05.prefab
+- Assets/ArtResources/OrderResources/Activitylevel/wsj2.png
+- Assets/ArtResources/OrderResources/Activitylevel/wsj3.png
+- Assets/ArtResources/OrderResources/Activitylevel/bxhd2.png
+- Assets/ArtResources/OrderResources/Activitylevel/hdi2.png
+- Assets/ArtResources/OrderResources/Activitylevel/toy_03.prefab
+- Assets/ArtResources/OrderResources/Activitylevel/toy_01.prefab
+- Assets/ArtResources/OrderResources/Activitylevel/hdi3.png
+- Assets/ArtResources/OrderResources/Activitylevel/toy_02.prefab
+- Assets/ArtResources/OrderResources/Activitylevel/sdj2.png
+- Assets/ArtResources/OrderResources/Activitylevel/toy_04.prefab
+Dependencies: []

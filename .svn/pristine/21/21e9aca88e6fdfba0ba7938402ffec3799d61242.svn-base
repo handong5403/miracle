@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 489569583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b861fe7d3840cea556c494325485fd25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6df3030e65e328583eab0113a5144d0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Role/Role_651/Role_65104.prefab
+- Assets/ArtResources/Role/Role_651/Role_65110.prefab
+- Assets/ArtResources/Role/Role_651/Role_65105.prefab
+- Assets/ArtResources/Role/Role_651/Role_65109.prefab
+- Assets/ArtResources/Role/Role_651/Role_65106.prefab
+- Assets/ArtResources/Role/Role_651/Role_65107.prefab
+- Assets/ArtResources/Role/Role_651/Role_65108.prefab
+- Assets/ArtResources/Role/Role_651/Role_65102.prefab
+- Assets/ArtResources/Role/Role_651/Role_65103.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/orangutan/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/orangutan/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/orangutan/lv7-lv9.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

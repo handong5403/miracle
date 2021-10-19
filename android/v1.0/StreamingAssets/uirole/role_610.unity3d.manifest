@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2338222400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3c91601b83a2f95ef425a9037433ba7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db5328b9d9f2eec99dff42510835c4c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UIRole/Role_610/Role_61008.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61006.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61003.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61007.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61002.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61009.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61010.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61005.prefab
+- Assets/ArtResources/UIRole/Role_610/Role_61004.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/greenalgae/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/greenalgae/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/greenalgae/lv7-lv9.unity3d

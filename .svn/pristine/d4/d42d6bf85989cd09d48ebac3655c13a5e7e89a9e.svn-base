@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3335637813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32b212b37a5492b34bd9757a69775ddb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8a094ef8475b22e0a0fac342bcb22da4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca86fc57535713941bde4b92d7bec3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c2cd15e2519b604da6aea8efd57689f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/RoleBag/AnimalBookView.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/mode_1.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/rolebag.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/rolebag/item.unity3d

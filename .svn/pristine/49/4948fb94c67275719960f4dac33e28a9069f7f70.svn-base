@@ -1,0 +1,1882 @@
+ManifestFileVersion: 0
+CRC: 2100194921
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: orderresources/activitylevel.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: orderresources/activitylevel_explore.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: ui/prefab/main.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+        Dependency_1: spritealtas/guide.unity3d
+        Dependency_2: ui/prefab/common.unity3d
+        Dependency_3: ui/prefab/goldroom.unity3d
+        Dependency_4: ui/prefab/main/itemview.unity3d
+    Info_3:
+      Name: ui/prefab/worldmap.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: shadow.unity3d
+      Dependencies:
+        Dependency_0: tp.unity3d
+    Info_5:
+      Name: monster_animate.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: orderresources/passport.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: effect.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: mapui.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_9:
+      Name: item.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+        Dependency_2: uieffect.unity3d
+        Dependency_3: prefab.unity3d
+        Dependency_4: item/longtouani.unity3d
+        Dependency_5: tp.unity3d
+    Info_10:
+      Name: uieffect.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+    Info_11:
+      Name: prefab.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_12:
+      Name: ui/prefab/friend.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: ui/prefab/common.unity3d
+    Info_13:
+      Name: orderresources/home.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: ui/prefab/activityholiday.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/extraloot.unity3d
+    Info_15:
+      Name: orderresources/extraloot.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: ui/prefab/tips.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_17:
+      Name: ui/prefab/loading.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+        Dependency_1: spritealtas/home.unity3d
+    Info_18:
+      Name: ui/prefab/option.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/uifriend.unity3d
+        Dependency_1: spritealtas/option.unity3d
+        Dependency_2: spritealtas/icon.unity3d
+        Dependency_3: spritealtas/common.unity3d
+        Dependency_4: spritealtas/home.unity3d
+        Dependency_5: ui/prefab/common.unity3d
+    Info_19:
+      Name: ui/prefab/mail.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_20:
+      Name: ui/prefab/login.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+    Info_21:
+      Name: spritealtas/activity_5.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: spritealtas/passport.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: spritealtas/activity_6.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: spritealtas/mode_3.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: spritealtas/uifriend.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: spritealtas/activity_3.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: spritealtas/activity_4.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: spritealtas/mode_2.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: spritealtas/friend.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: spritealtas/homefloor.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: spritealtas/uiguide.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: spritealtas/mode_1.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: spritealtas/extraloot.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: spritealtas/worldmapfloor.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: spritealtas/item_4.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: spritealtas/item_3.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: spritealtas/item_1.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: spritealtas/option.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: spritealtas/mail.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: spritealtas/icon.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: spritealtas/loading.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: spritealtas/level.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: spritealtas/item_7.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: spritealtas/common.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: spritealtas/kala.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: spritealtas/activity_2.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: spritealtas/item_6.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: spritealtas/report.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: spritealtas/guide.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: spritealtas/item_5.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: spritealtas/library.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: spritealtas/shop.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: spritealtas/globalfloor.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: spritealtas/activity_1.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: spritealtas/home.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: spritealtas/limitlevel.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: spritealtas/secret_spring.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: spritealtas/item_2.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: spritealtas/worldmapui.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: spritealtas/mode_4.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: monster.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: monster_animate.unity3d
+        Dependency_2: uieffect.unity3d
+    Info_62:
+      Name: uirole/role_601.unity3d
+      Dependencies:
+        Dependency_0: roleres/valkyrie/lv1-lv2.unity3d
+        Dependency_1: roleres/valkyrie/lv3.unity3d
+        Dependency_2: roleres/valkyrie/lv4-lv5.unity3d
+        Dependency_3: roleres/valkyrie/lv6.unity3d
+        Dependency_4: roleres/valkyrie/lv7-lv9.unity3d
+    Info_63:
+      Name: uirole/role_602.unity3d
+      Dependencies:
+        Dependency_0: roleres/whitehorse/lv1-lv3.unity3d
+        Dependency_1: roleres/whitehorse/lv4-lv6.unity3d
+        Dependency_2: roleres/whitehorse/lv7-lv9.unity3d
+    Info_64:
+      Name: uirole/role_603.unity3d
+      Dependencies:
+        Dependency_0: roleres/chameleon/lv1-lv3.unity3d
+        Dependency_1: roleres/chameleon/lv4-lv6.unity3d
+        Dependency_2: roleres/chameleon/lv7-lv9.unity3d
+    Info_65:
+      Name: uirole/role_604.unity3d
+      Dependencies:
+        Dependency_0: roleres/pangolin/lv1-lv3.unity3d
+        Dependency_1: roleres/pangolin/lv4-lv6.unity3d
+        Dependency_2: roleres/pangolin/lv7-lv9.unity3d
+    Info_66:
+      Name: uirole/role_605.unity3d
+      Dependencies:
+        Dependency_0: roleres/candyelf/lv1-lv2.unity3d
+        Dependency_1: roleres/candyelf/lv3.unity3d
+        Dependency_2: roleres/candyelf/lv4-lv5.unity3d
+        Dependency_3: roleres/candyelf/lv6.unity3d
+        Dependency_4: roleres/candyelf/lv7-lv9.unity3d
+    Info_67:
+      Name: uirole/role_606.unity3d
+      Dependencies:
+        Dependency_0: roleres/candyprince/lv1-lv2.unity3d
+        Dependency_1: roleres/candyprince/lv3.unity3d
+        Dependency_2: roleres/candyprince/lv4-lv5.unity3d
+        Dependency_3: roleres/candyprince/lv6.unity3d
+        Dependency_4: roleres/candyprince/lv7-lv9.unity3d
+    Info_68:
+      Name: uirole/role_607.unity3d
+      Dependencies:
+        Dependency_0: roleres/trendbunny/lv1-lv3.unity3d
+        Dependency_1: roleres/trendbunny/lv4-lv6.unity3d
+        Dependency_2: roleres/trendbunny/lv7-lv9.unity3d
+    Info_69:
+      Name: uirole/role_608.unity3d
+      Dependencies:
+        Dependency_0: roleres/crocodile/lv1-lv3.unity3d
+        Dependency_1: roleres/crocodile/lv4-lv6.unity3d
+        Dependency_2: roleres/crocodile/lv7-lv9.unity3d
+    Info_70:
+      Name: uirole/role_609.unity3d
+      Dependencies:
+        Dependency_0: roleres/seaeagle/lv1-lv3.unity3d
+        Dependency_1: roleres/seaeagle/lv4-lv6.unity3d
+        Dependency_2: roleres/seaeagle/lv7-lv9.unity3d
+    Info_71:
+      Name: uirole/role_610.unity3d
+      Dependencies:
+        Dependency_0: roleres/greenalgae/lv1-lv3.unity3d
+        Dependency_1: roleres/greenalgae/lv4-lv6.unity3d
+        Dependency_2: roleres/greenalgae/lv7-lv9.unity3d
+    Info_72:
+      Name: uirole/role_611.unity3d
+      Dependencies:
+        Dependency_0: roleres/tiger/tiger_1.unity3d
+        Dependency_1: roleres/tiger/tiger_2.unity3d
+        Dependency_2: roleres/tiger/tiger_3.unity3d
+    Info_73:
+      Name: uirole/role_612.unity3d
+      Dependencies:
+        Dependency_0: roleres/dryad/lv1-lv2.unity3d
+        Dependency_1: roleres/dryad/lv3.unity3d
+        Dependency_2: roleres/dryad/lv4-lv5.unity3d
+        Dependency_3: roleres/dryad/lv6.unity3d
+        Dependency_4: roleres/dryad/lv7-lv9.unity3d
+    Info_74:
+      Name: uirole/role_613.unity3d
+      Dependencies:
+        Dependency_0: roleres/beaver/lv1-lv3.unity3d
+        Dependency_1: roleres/beaver/lv4-lv6.unity3d
+        Dependency_2: roleres/beaver/lv7-lv9.unity3d
+    Info_75:
+      Name: uirole/role_614.unity3d
+      Dependencies:
+        Dependency_0: roleres/fox/lv1-lv3.unity3d
+        Dependency_1: roleres/fox/lv4-lv6.unity3d
+        Dependency_2: roleres/fox/lv7-lv9.unity3d
+    Info_76:
+      Name: uirole/role_615.unity3d
+      Dependencies:
+        Dependency_0: roleres/hippo/lv1-lv3.unity3d
+        Dependency_1: roleres/hippo/lv4-lv6.unity3d
+        Dependency_2: roleres/hippo/lv7-lv9.unity3d
+    Info_77:
+      Name: uirole/role_616.unity3d
+      Dependencies:
+        Dependency_0: roleres/fatblue/lv1-lv2.unity3d
+        Dependency_1: roleres/fatblue/lv3.unity3d
+        Dependency_2: roleres/fatblue/lv4-lv5.unity3d
+        Dependency_3: roleres/fatblue/lv6.unity3d
+        Dependency_4: roleres/fatblue/lv7-lv9.unity3d
+    Info_78:
+      Name: uirole/role_617.unity3d
+      Dependencies:
+        Dependency_0: roleres/otter/lv1-lv3.unity3d
+        Dependency_1: roleres/otter/lv4-lv6.unity3d
+        Dependency_2: roleres/otter/lv7-lv9.unity3d
+    Info_79:
+      Name: uirole/role_618.unity3d
+      Dependencies:
+        Dependency_0: roleres/walrus/lv1-lv3.unity3d
+        Dependency_1: roleres/walrus/lv4-lv6.unity3d
+        Dependency_2: roleres/walrus/lv7-lv9.unity3d
+    Info_80:
+      Name: uirole/role_619.unity3d
+      Dependencies:
+        Dependency_0: roleres/monkey/lv1-lv3.unity3d
+        Dependency_1: roleres/monkey/lv4-lv6.unity3d
+        Dependency_2: roleres/monkey/lv7-lv9.unity3d
+    Info_81:
+      Name: uirole/role_620.unity3d
+      Dependencies:
+        Dependency_0: roleres/pig/lv1-lv3.unity3d
+        Dependency_1: roleres/pig/lv4-lv6.unity3d
+        Dependency_2: roleres/pig/lv7-lv9.unity3d
+    Info_82:
+      Name: uirole/role_621.unity3d
+      Dependencies:
+        Dependency_0: roleres/grandpatrees/lv1-lv2.unity3d
+        Dependency_1: roleres/grandpatrees/lv3.unity3d
+        Dependency_2: roleres/grandpatrees/lv4-lv5.unity3d
+        Dependency_3: roleres/grandpatrees/lv6.unity3d
+        Dependency_4: roleres/grandpatrees/lv7-lv9.unity3d
+    Info_83:
+      Name: uirole/role_622.unity3d
+      Dependencies:
+        Dependency_0: roleres/graywolf/lv1-lv3.unity3d
+        Dependency_1: roleres/graywolf/lv4-lv6.unity3d
+        Dependency_2: roleres/graywolf/lv7-lv9.unity3d
+    Info_84:
+      Name: uirole/role_623.unity3d
+      Dependencies:
+        Dependency_0: roleres/hyena/lv1-lv3.unity3d
+        Dependency_1: roleres/hyena/lv4-lv6.unity3d
+        Dependency_2: roleres/hyena/lv7-lv9.unity3d
+    Info_85:
+      Name: uirole/role_624.unity3d
+      Dependencies:
+        Dependency_0: roleres/mouse/lv1-lv3.unity3d
+        Dependency_1: roleres/mouse/lv4-lv6.unity3d
+        Dependency_2: roleres/mouse/lv7-lv9.unity3d
+    Info_86:
+      Name: uirole/role_625.unity3d
+      Dependencies:
+        Dependency_0: roleres/snowqueen/lv1-lv3.unity3d
+        Dependency_1: roleres/snowqueen/lv4-lv6.unity3d
+        Dependency_2: roleres/snowqueen/lv7-lv9.unity3d
+    Info_87:
+      Name: uirole/role_626.unity3d
+      Dependencies:
+        Dependency_0: roleres/jellyfisprincess/lv1-lv2.unity3d
+        Dependency_1: roleres/jellyfisprincess/lv3.unity3d
+        Dependency_2: roleres/jellyfisprincess/lv4-lv5.unity3d
+        Dependency_3: roleres/jellyfisprincess/lv6.unity3d
+        Dependency_4: roleres/jellyfisprincess/lv7-lv9.unity3d
+    Info_88:
+      Name: uirole/role_627.unity3d
+      Dependencies:
+        Dependency_0: roleres/cat/lv1-lv3.unity3d
+        Dependency_1: roleres/cat/lv4-lv6.unity3d
+        Dependency_2: roleres/cat/lv7-lv9.unity3d
+    Info_89:
+      Name: uirole/role_628.unity3d
+      Dependencies:
+        Dependency_0: roleres/bull/lv1-lv3.unity3d
+        Dependency_1: roleres/bull/lv4-lv6.unity3d
+        Dependency_2: roleres/bull/lv7-lv9.unity3d
+    Info_90:
+      Name: uirole/role_629.unity3d
+      Dependencies:
+        Dependency_0: roleres/mermaidqueen/lv1-lv2.unity3d
+        Dependency_1: roleres/mermaidqueen/lv3.unity3d
+        Dependency_2: roleres/mermaidqueen/lv4-lv5.unity3d
+        Dependency_3: roleres/mermaidqueen/lv6.unity3d
+        Dependency_4: roleres/mermaidqueen/lv7-lv9.unity3d
+    Info_91:
+      Name: uirole/role_630.unity3d
+      Dependencies:
+        Dependency_0: roleres/penguin/lv1-lv3.unity3d
+        Dependency_1: roleres/penguin/lv4-lv6.unity3d
+        Dependency_2: roleres/penguin/lv7-lv9.unity3d
+    Info_92:
+      Name: uirole/role_631.unity3d
+      Dependencies:
+        Dependency_0: roleres/squirrel/lv1-lv3.unity3d
+        Dependency_1: roleres/squirrel/lv4-lv6.unity3d
+        Dependency_2: roleres/squirrel/lv7-lv9.unity3d
+    Info_93:
+      Name: uirole/role_632.unity3d
+      Dependencies:
+        Dependency_0: roleres/lion/lv1-lv3.unity3d
+        Dependency_1: roleres/lion/lv4-lv6.unity3d
+        Dependency_2: roleres/lion/lv7-lv9.unity3d
+    Info_94:
+      Name: uirole/role_633.unity3d
+      Dependencies:
+        Dependency_0: roleres/rabbit/lv1-lv3.unity3d
+        Dependency_1: roleres/rabbit/lv4-lv6.unity3d
+        Dependency_2: roleres/rabbit/lv7-lv9.unity3d
+    Info_95:
+      Name: uirole/role_634.unity3d
+      Dependencies:
+        Dependency_0: roleres/elephant/lv1-lv3.unity3d
+        Dependency_1: roleres/elephant/lv4-lv6.unity3d
+        Dependency_2: roleres/elephant/lv7-lv9.unity3d
+    Info_96:
+      Name: uirole/role_635.unity3d
+      Dependencies:
+        Dependency_0: roleres/bear/lv1-lv3.unity3d
+        Dependency_1: roleres/bear/lv4-lv6.unity3d
+        Dependency_2: roleres/bear/lv7-lv9.unity3d
+    Info_97:
+      Name: uirole/role_636.unity3d
+      Dependencies:
+        Dependency_0: roleres/qcr/lv1-lv2.unity3d
+        Dependency_1: roleres/qcr/lv3.unity3d
+        Dependency_2: roleres/qcr/lv4-lv5.unity3d
+        Dependency_3: roleres/qcr/lv6.unity3d
+        Dependency_4: roleres/qcr/lv7-lv9.unity3d
+    Info_98:
+      Name: uirole/role_637.unity3d
+      Dependencies:
+        Dependency_0: roleres/racingboy/lv1-lv2.unity3d
+        Dependency_1: roleres/racingboy/lv3.unity3d
+        Dependency_2: roleres/racingboy/lv4-lv5.unity3d
+        Dependency_3: roleres/racingboy/lv6.unity3d
+        Dependency_4: roleres/racingboy/lv7-lv9.unity3d
+    Info_99:
+      Name: uirole/role_638.unity3d
+      Dependencies:
+        Dependency_0: roleres/rhinoceros/lv1-lv3.unity3d
+        Dependency_1: roleres/rhinoceros/lv4-lv6.unity3d
+        Dependency_2: roleres/rhinoceros/lv7-lv9.unity3d
+    Info_100:
+      Name: uirole/role_639.unity3d
+      Dependencies:
+        Dependency_0: roleres/snowprincess/lv1-lv3.unity3d
+        Dependency_1: roleres/snowprincess/lv4-lv6.unity3d
+        Dependency_2: roleres/snowprincess/lv7-lv9.unity3d
+    Info_101:
+      Name: uirole/role_640.unity3d
+      Dependencies:
+        Dependency_0: roleres/goat/lv1-lv3.unity3d
+        Dependency_1: roleres/goat/lv4-lv6.unity3d
+        Dependency_2: roleres/goat/lv7-lv9.unity3d
+    Info_102:
+      Name: uirole/role_641.unity3d
+      Dependencies:
+        Dependency_0: roleres/parrot/lv1-lv3.unity3d
+        Dependency_1: roleres/parrot/lv4-lv6.unity3d
+        Dependency_2: roleres/parrot/lv7-lv9.unity3d
+    Info_103:
+      Name: uirole/role_642.unity3d
+      Dependencies:
+        Dependency_0: roleres/frog/lv1-lv3.unity3d
+        Dependency_1: roleres/frog/lv4-lv6.unity3d
+        Dependency_2: roleres/frog/lv7-lv9.unity3d
+    Info_104:
+      Name: uirole/role_643.unity3d
+      Dependencies:
+        Dependency_0: roleres/bulldog/lv1-lv3.unity3d
+        Dependency_1: roleres/bulldog/lv4-lv6.unity3d
+        Dependency_2: roleres/bulldog/lv7-lv9.unity3d
+    Info_105:
+      Name: uirole/role_644.unity3d
+      Dependencies:
+        Dependency_0: roleres/kangaroo/lv1-lv3.unity3d
+        Dependency_1: roleres/kangaroo/lv4-lv6.unity3d
+        Dependency_2: roleres/kangaroo/lv7-lv9.unity3d
+    Info_106:
+      Name: uirole/role_645.unity3d
+      Dependencies:
+        Dependency_0: roleres/panda/lv1-lv3.unity3d
+        Dependency_1: roleres/panda/lv4-lv6.unity3d
+        Dependency_2: roleres/panda/lv7-lv9.unity3d
+    Info_107:
+      Name: uirole/role_646.unity3d
+      Dependencies:
+        Dependency_0: roleres/koala/lv1-lv3.unity3d
+        Dependency_1: roleres/koala/lv4-lv6.unity3d
+        Dependency_2: roleres/koala/lv7-lv9.unity3d
+    Info_108:
+      Name: uirole/role_647.unity3d
+      Dependencies:
+        Dependency_0: roleres/petdog/lv1-lv3.unity3d
+        Dependency_1: roleres/petdog/lv4-lv6.unity3d
+        Dependency_2: roleres/petdog/lv7-lv9.unity3d
+    Info_109:
+      Name: uirole/role_648.unity3d
+      Dependencies:
+        Dependency_0: roleres/deerdoctor/lv1-lv3.unity3d
+        Dependency_1: roleres/deerdoctor/lv4-lv6.unity3d
+        Dependency_2: roleres/deerdoctor/lv7-lv9.unity3d
+    Info_110:
+      Name: uirole/role_649.unity3d
+      Dependencies:
+        Dependency_0: roleres/toysuperman/lv1-lv2.unity3d
+        Dependency_1: roleres/toysuperman/lv3.unity3d
+        Dependency_2: roleres/toysuperman/lv4-lv5.unity3d
+        Dependency_3: roleres/toysuperman/lv6.unity3d
+        Dependency_4: roleres/toysuperman/lv7-lv9.unity3d
+    Info_111:
+      Name: uirole/role_650.unity3d
+      Dependencies:
+        Dependency_0: roleres/leopard/lv1-lv3.unity3d
+        Dependency_1: roleres/leopard/lv4-lv6.unity3d
+        Dependency_2: roleres/leopard/lv7-lv9.unity3d
+    Info_112:
+      Name: uirole/role_651.unity3d
+      Dependencies:
+        Dependency_0: roleres/orangutan/lv1-lv3.unity3d
+        Dependency_1: roleres/orangutan/lv4-lv6.unity3d
+        Dependency_2: roleres/orangutan/lv7-lv9.unity3d
+    Info_113:
+      Name: uirole/role_652.unity3d
+      Dependencies:
+        Dependency_0: roleres/countdracula/lv1-lv3.unity3d
+        Dependency_1: roleres/countdracula/lv4-lv6.unity3d
+        Dependency_2: roleres/countdracula/lv7-lv9.unity3d
+    Info_114:
+      Name: uirole/role_653.unity3d
+      Dependencies:
+        Dependency_0: roleres/vampiregodfather/lv1-lv3.unity3d
+        Dependency_1: roleres/vampiregodfather/lv4-lv6.unity3d
+        Dependency_2: roleres/vampiregodfather/lv7-lv9.unity3d
+    Info_115:
+      Name: uirole/role_654.unity3d
+      Dependencies:
+        Dependency_0: roleres/raccoon/lv1-lv3.unity3d
+        Dependency_1: roleres/raccoon/lv4-lv6.unity3d
+        Dependency_2: roleres/raccoon/lv7-lv9.unity3d
+    Info_116:
+      Name: uirole/role_655.unity3d
+      Dependencies:
+        Dependency_0: roleres/whitedog/lv1-lv3.unity3d
+        Dependency_1: roleres/whitedog/lv4-lv6.unity3d
+        Dependency_2: roleres/whitedog/lv7-lv9.unity3d
+    Info_117:
+      Name: uirole/role_656.unity3d
+      Dependencies:
+        Dependency_0: roleres/dinosaur/lv1-lv3.unity3d
+        Dependency_1: roleres/dinosaur/lv4-lv6.unity3d
+        Dependency_2: roleres/dinosaur/lv7-lv9.unity3d
+    Info_118:
+      Name: role/role_601.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+    Info_119:
+      Name: role/role_602.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/whitehorse/lv1-lv3.unity3d
+        Dependency_2: roleres/whitehorse/lv4-lv6.unity3d
+        Dependency_3: roleres/whitehorse/lv7-lv9.unity3d
+    Info_120:
+      Name: role/role_603.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/chameleon/lv1-lv3.unity3d
+        Dependency_2: roleres/chameleon/lv4-lv6.unity3d
+        Dependency_3: roleres/chameleon/lv7-lv9.unity3d
+    Info_121:
+      Name: role/role_604.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/pangolin/lv1-lv3.unity3d
+        Dependency_2: roleres/pangolin/lv4-lv6.unity3d
+        Dependency_3: roleres/pangolin/lv7-lv9.unity3d
+    Info_122:
+      Name: role/role_605.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/candyelf/lv1-lv2.unity3d
+        Dependency_2: roleres/candyelf/lv3.unity3d
+        Dependency_3: roleres/candyelf/lv4-lv5.unity3d
+        Dependency_4: roleres/candyelf/lv6.unity3d
+        Dependency_5: roleres/candyelf/lv7-lv9.unity3d
+    Info_123:
+      Name: role/role_606.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/candyprince/lv1-lv2.unity3d
+        Dependency_2: roleres/candyprince/lv3.unity3d
+        Dependency_3: roleres/candyprince/lv4-lv5.unity3d
+        Dependency_4: roleres/candyprince/lv6.unity3d
+        Dependency_5: roleres/candyprince/lv7-lv9.unity3d
+    Info_124:
+      Name: role/role_607.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/trendbunny/lv1-lv3.unity3d
+        Dependency_2: roleres/trendbunny/lv4-lv6.unity3d
+        Dependency_3: roleres/trendbunny/lv7-lv9.unity3d
+    Info_125:
+      Name: role/role_608.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/crocodile/lv1-lv3.unity3d
+        Dependency_2: roleres/crocodile/lv4-lv6.unity3d
+        Dependency_3: roleres/crocodile/lv7-lv9.unity3d
+    Info_126:
+      Name: role/role_609.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/seaeagle/lv1-lv3.unity3d
+        Dependency_2: roleres/seaeagle/lv4-lv6.unity3d
+        Dependency_3: roleres/seaeagle/lv7-lv9.unity3d
+    Info_127:
+      Name: role/role_610.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/greenalgae/lv1-lv3.unity3d
+        Dependency_2: roleres/greenalgae/lv4-lv6.unity3d
+        Dependency_3: roleres/greenalgae/lv7-lv9.unity3d
+    Info_128:
+      Name: role/role_611.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/tiger/tiger_1.unity3d
+        Dependency_2: roleres/tiger/tiger_2.unity3d
+        Dependency_3: roleres/tiger/tiger_3.unity3d
+    Info_129:
+      Name: role/role_612.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/dryad/lv1-lv2.unity3d
+        Dependency_2: roleres/dryad/lv3.unity3d
+        Dependency_3: roleres/dryad/lv4-lv5.unity3d
+        Dependency_4: roleres/dryad/lv6.unity3d
+        Dependency_5: roleres/dryad/lv7-lv9.unity3d
+    Info_130:
+      Name: role/role_613.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/beaver/lv1-lv3.unity3d
+        Dependency_2: roleres/beaver/lv4-lv6.unity3d
+        Dependency_3: roleres/beaver/lv7-lv9.unity3d
+    Info_131:
+      Name: role/role_614.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/fox/lv1-lv3.unity3d
+        Dependency_2: roleres/fox/lv4-lv6.unity3d
+        Dependency_3: roleres/fox/lv7-lv9.unity3d
+    Info_132:
+      Name: role/role_615.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/hippo/lv1-lv3.unity3d
+        Dependency_2: roleres/hippo/lv4-lv6.unity3d
+        Dependency_3: roleres/hippo/lv7-lv9.unity3d
+    Info_133:
+      Name: role/role_616.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/fatblue/lv1-lv2.unity3d
+        Dependency_2: roleres/fatblue/lv3.unity3d
+        Dependency_3: roleres/fatblue/lv4-lv5.unity3d
+        Dependency_4: roleres/fatblue/lv6.unity3d
+        Dependency_5: roleres/fatblue/lv7-lv9.unity3d
+    Info_134:
+      Name: role/role_617.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/otter/lv1-lv3.unity3d
+        Dependency_2: roleres/otter/lv4-lv6.unity3d
+        Dependency_3: roleres/otter/lv7-lv9.unity3d
+    Info_135:
+      Name: role/role_618.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/walrus/lv1-lv3.unity3d
+        Dependency_2: roleres/walrus/lv4-lv6.unity3d
+        Dependency_3: roleres/walrus/lv7-lv9.unity3d
+    Info_136:
+      Name: role/role_619.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/monkey/lv1-lv3.unity3d
+        Dependency_2: roleres/monkey/lv4-lv6.unity3d
+        Dependency_3: roleres/monkey/lv7-lv9.unity3d
+    Info_137:
+      Name: role/role_620.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/pig/lv1-lv3.unity3d
+        Dependency_2: roleres/pig/lv4-lv6.unity3d
+        Dependency_3: roleres/pig/lv7-lv9.unity3d
+    Info_138:
+      Name: role/role_621.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/grandpatrees/lv1-lv2.unity3d
+        Dependency_2: roleres/grandpatrees/lv3.unity3d
+        Dependency_3: roleres/grandpatrees/lv4-lv5.unity3d
+        Dependency_4: roleres/grandpatrees/lv6.unity3d
+        Dependency_5: roleres/grandpatrees/lv7-lv9.unity3d
+    Info_139:
+      Name: role/role_622.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/graywolf/lv1-lv3.unity3d
+        Dependency_2: roleres/graywolf/lv4-lv6.unity3d
+        Dependency_3: roleres/graywolf/lv7-lv9.unity3d
+    Info_140:
+      Name: role/role_623.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/hyena/lv1-lv3.unity3d
+        Dependency_2: roleres/hyena/lv4-lv6.unity3d
+        Dependency_3: roleres/hyena/lv7-lv9.unity3d
+    Info_141:
+      Name: role/role_624.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/mouse/lv1-lv3.unity3d
+        Dependency_2: roleres/mouse/lv4-lv6.unity3d
+        Dependency_3: roleres/mouse/lv7-lv9.unity3d
+    Info_142:
+      Name: role/role_625.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/snowqueen/lv1-lv3.unity3d
+        Dependency_2: roleres/snowqueen/lv4-lv6.unity3d
+        Dependency_3: roleres/snowqueen/lv7-lv9.unity3d
+    Info_143:
+      Name: role/role_626.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/jellyfisprincess/lv1-lv2.unity3d
+        Dependency_2: roleres/jellyfisprincess/lv3.unity3d
+        Dependency_3: roleres/jellyfisprincess/lv4-lv5.unity3d
+        Dependency_4: roleres/jellyfisprincess/lv6.unity3d
+        Dependency_5: roleres/jellyfisprincess/lv7-lv9.unity3d
+    Info_144:
+      Name: role/role_627.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/cat/lv1-lv3.unity3d
+        Dependency_2: roleres/cat/lv4-lv6.unity3d
+        Dependency_3: roleres/cat/lv7-lv9.unity3d
+    Info_145:
+      Name: role/role_628.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/bull/lv1-lv3.unity3d
+        Dependency_2: roleres/bull/lv4-lv6.unity3d
+        Dependency_3: roleres/bull/lv7-lv9.unity3d
+    Info_146:
+      Name: role/role_629.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/mermaidqueen/lv1-lv2.unity3d
+        Dependency_2: roleres/mermaidqueen/lv3.unity3d
+        Dependency_3: roleres/mermaidqueen/lv4-lv5.unity3d
+        Dependency_4: roleres/mermaidqueen/lv6.unity3d
+        Dependency_5: roleres/mermaidqueen/lv7-lv9.unity3d
+    Info_147:
+      Name: role/role_630.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/penguin/lv1-lv3.unity3d
+        Dependency_2: roleres/penguin/lv4-lv6.unity3d
+        Dependency_3: roleres/penguin/lv7-lv9.unity3d
+    Info_148:
+      Name: role/role_631.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/squirrel/lv1-lv3.unity3d
+        Dependency_2: roleres/squirrel/lv4-lv6.unity3d
+        Dependency_3: roleres/squirrel/lv7-lv9.unity3d
+    Info_149:
+      Name: role/role_632.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/lion/lv1-lv3.unity3d
+        Dependency_2: roleres/lion/lv4-lv6.unity3d
+        Dependency_3: roleres/lion/lv7-lv9.unity3d
+    Info_150:
+      Name: role/role_633.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/rabbit/lv1-lv3.unity3d
+        Dependency_2: roleres/rabbit/lv4-lv6.unity3d
+        Dependency_3: roleres/rabbit/lv7-lv9.unity3d
+    Info_151:
+      Name: role/role_634.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/elephant/lv1-lv3.unity3d
+        Dependency_2: roleres/elephant/lv4-lv6.unity3d
+        Dependency_3: roleres/elephant/lv7-lv9.unity3d
+    Info_152:
+      Name: role/role_635.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/bear/lv1-lv3.unity3d
+        Dependency_2: roleres/bear/lv4-lv6.unity3d
+        Dependency_3: roleres/bear/lv7-lv9.unity3d
+    Info_153:
+      Name: role/role_636.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/qcr/lv1-lv2.unity3d
+        Dependency_2: roleres/qcr/lv3.unity3d
+        Dependency_3: roleres/qcr/lv4-lv5.unity3d
+        Dependency_4: roleres/qcr/lv6.unity3d
+        Dependency_5: roleres/qcr/lv7-lv9.unity3d
+    Info_154:
+      Name: role/role_637.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/racingboy/lv1-lv2.unity3d
+        Dependency_2: roleres/racingboy/lv3.unity3d
+        Dependency_3: roleres/racingboy/lv4-lv5.unity3d
+        Dependency_4: roleres/racingboy/lv6.unity3d
+        Dependency_5: roleres/racingboy/lv7-lv9.unity3d
+    Info_155:
+      Name: role/role_638.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/rhinoceros/lv1-lv3.unity3d
+        Dependency_2: roleres/rhinoceros/lv4-lv6.unity3d
+        Dependency_3: roleres/rhinoceros/lv7-lv9.unity3d
+    Info_156:
+      Name: role/role_639.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/snowprincess/lv1-lv3.unity3d
+        Dependency_2: roleres/snowprincess/lv4-lv6.unity3d
+        Dependency_3: roleres/snowprincess/lv7-lv9.unity3d
+    Info_157:
+      Name: role/role_640.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/goat/lv1-lv3.unity3d
+        Dependency_2: roleres/goat/lv4-lv6.unity3d
+        Dependency_3: roleres/goat/lv7-lv9.unity3d
+    Info_158:
+      Name: role/role_641.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/parrot/lv1-lv3.unity3d
+        Dependency_2: roleres/parrot/lv4-lv6.unity3d
+        Dependency_3: roleres/parrot/lv7-lv9.unity3d
+    Info_159:
+      Name: role/role_642.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/frog/lv1-lv3.unity3d
+        Dependency_2: roleres/frog/lv4-lv6.unity3d
+        Dependency_3: roleres/frog/lv7-lv9.unity3d
+    Info_160:
+      Name: role/role_643.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/bulldog/lv1-lv3.unity3d
+        Dependency_2: roleres/bulldog/lv4-lv6.unity3d
+        Dependency_3: roleres/bulldog/lv7-lv9.unity3d
+    Info_161:
+      Name: role/role_644.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/kangaroo/lv1-lv3.unity3d
+        Dependency_2: roleres/kangaroo/lv4-lv6.unity3d
+        Dependency_3: roleres/kangaroo/lv7-lv9.unity3d
+    Info_162:
+      Name: role/role_645.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/panda/lv1-lv3.unity3d
+        Dependency_2: roleres/panda/lv4-lv6.unity3d
+        Dependency_3: roleres/panda/lv7-lv9.unity3d
+    Info_163:
+      Name: role/role_646.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/koala/lv1-lv3.unity3d
+        Dependency_2: roleres/koala/lv4-lv6.unity3d
+        Dependency_3: roleres/koala/lv7-lv9.unity3d
+    Info_164:
+      Name: role/role_647.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/petdog/lv1-lv3.unity3d
+        Dependency_2: roleres/petdog/lv4-lv6.unity3d
+        Dependency_3: roleres/petdog/lv7-lv9.unity3d
+    Info_165:
+      Name: role/role_648.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/deerdoctor/lv1-lv3.unity3d
+        Dependency_2: roleres/deerdoctor/lv4-lv6.unity3d
+        Dependency_3: roleres/deerdoctor/lv7-lv9.unity3d
+    Info_166:
+      Name: role/role_649.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/toysuperman/lv1-lv2.unity3d
+        Dependency_2: roleres/toysuperman/lv3.unity3d
+        Dependency_3: roleres/toysuperman/lv4-lv5.unity3d
+        Dependency_4: roleres/toysuperman/lv6.unity3d
+        Dependency_5: roleres/toysuperman/lv7-lv9.unity3d
+    Info_167:
+      Name: role/role_650.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/leopard/lv1-lv3.unity3d
+        Dependency_2: roleres/leopard/lv4-lv6.unity3d
+        Dependency_3: roleres/leopard/lv7-lv9.unity3d
+    Info_168:
+      Name: role/role_651.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/orangutan/lv1-lv3.unity3d
+        Dependency_2: roleres/orangutan/lv4-lv6.unity3d
+        Dependency_3: roleres/orangutan/lv7-lv9.unity3d
+    Info_169:
+      Name: role/role_652.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/countdracula/lv1-lv3.unity3d
+        Dependency_2: roleres/countdracula/lv4-lv6.unity3d
+        Dependency_3: roleres/countdracula/lv7-lv9.unity3d
+    Info_170:
+      Name: role/role_653.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/vampiregodfather/lv1-lv3.unity3d
+        Dependency_2: roleres/vampiregodfather/lv4-lv6.unity3d
+        Dependency_3: roleres/vampiregodfather/lv7-lv9.unity3d
+    Info_171:
+      Name: role/role_654.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/raccoon/lv1-lv3.unity3d
+        Dependency_2: roleres/raccoon/lv4-lv6.unity3d
+        Dependency_3: roleres/raccoon/lv7-lv9.unity3d
+    Info_172:
+      Name: role/role_655.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/whitedog/lv1-lv3.unity3d
+        Dependency_2: roleres/whitedog/lv4-lv6.unity3d
+        Dependency_3: roleres/whitedog/lv7-lv9.unity3d
+    Info_173:
+      Name: role/role_656.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: roleres/dinosaur/lv1-lv3.unity3d
+        Dependency_2: roleres/dinosaur/lv4-lv6.unity3d
+        Dependency_3: roleres/dinosaur/lv7-lv9.unity3d
+    Info_174:
+      Name: item/longtouani.unity3d
+      Dependencies: {}
+    Info_175:
+      Name: map/home.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_176:
+      Name: map/pack_1.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_177:
+      Name: tp.unity3d
+      Dependencies: {}
+    Info_178:
+      Name: ui/prefab/activitybarrier.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/worldmap.unity3d
+        Dependency_1: shadow.unity3d
+        Dependency_2: spritealtas/mode_4.unity3d
+    Info_179:
+      Name: ui/prefab/activitypassport.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: orderresources/passport.unity3d
+        Dependency_2: ui/prefab/common.unity3d
+    Info_180:
+      Name: ui/prefab/barrier.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: spritealtas/worldmapfloor.unity3d
+        Dependency_3: spritealtas/item_4.unity3d
+        Dependency_4: spritealtas/item_3.unity3d
+        Dependency_5: spritealtas/item_1.unity3d
+        Dependency_6: spritealtas/option.unity3d
+        Dependency_7: spritealtas/icon.unity3d
+        Dependency_8: spritealtas/level.unity3d
+        Dependency_9: spritealtas/common.unity3d
+        Dependency_10: spritealtas/guide.unity3d
+        Dependency_11: spritealtas/activity_1.unity3d
+        Dependency_12: spritealtas/home.unity3d
+        Dependency_13: spritealtas/item_2.unity3d
+        Dependency_14: spritealtas/worldmapui.unity3d
+        Dependency_15: ui/prefab/common.unity3d
+        Dependency_16: ui/prefab/goldroom.unity3d
+        Dependency_17: ui/prefab/barrier/item.unity3d
+    Info_181:
+      Name: ui/prefab/billboard.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/common.unity3d
+    Info_182:
+      Name: ui/prefab/book.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: spritealtas/icon.unity3d
+        Dependency_2: spritealtas/common.unity3d
+        Dependency_3: ui/prefab/book/item.unity3d
+    Info_183:
+      Name: ui/prefab/chapter.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/goldroom.unity3d
+        Dependency_1: ui/prefab/chapter/item.unity3d
+    Info_184:
+      Name: ui/prefab/common.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: spritealtas/common.unity3d
+    Info_185:
+      Name: ui/prefab/daydeal.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/common.unity3d
+    Info_186:
+      Name: ui/prefab/daytask.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_187:
+      Name: ui/prefab/goldroom.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/common.unity3d
+        Dependency_1: ui/prefab/goldroom/item.unity3d
+    Info_188:
+      Name: ui/prefab/guide.unity3d
+      Dependencies: {}
+    Info_189:
+      Name: ui/prefab/home.unity3d
+      Dependencies:
+        Dependency_0: orderresources/home.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_190:
+      Name: ui/prefab/limitbarrier.unity3d
+      Dependencies:
+        Dependency_0: uieffect.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_191:
+      Name: ui/prefab/main/item.unity3d
+      Dependencies: {}
+    Info_192:
+      Name: ui/prefab/main/itemview.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_193:
+      Name: ui/prefab/map.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: spritealtas/item_3.unity3d
+        Dependency_3: spritealtas/common.unity3d
+        Dependency_4: ui/prefab/common.unity3d
+    Info_194:
+      Name: ui/prefab/messagebox.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/common.unity3d
+    Info_195:
+      Name: ui/prefab/paygift.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/activitybarrier.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_196:
+      Name: ui/prefab/role.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: ui/prefab/common.unity3d
+    Info_197:
+      Name: ui/prefab/sceneui.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+    Info_198:
+      Name: ui/prefab/task.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/icon.unity3d
+        Dependency_1: spritealtas/common.unity3d
+    Info_199:
+      Name: ui/prefab/welfare.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+        Dependency_2: uieffect.unity3d
+        Dependency_3: ui/prefab/common.unity3d
+    Info_200:
+      Name: ui/prefab/welfare/rechargecard.unity3d
+      Dependencies:
+        Dependency_0: uieffect.unity3d
+        Dependency_1: ui/prefab/common.unity3d
+    Info_201:
+      Name: music/bgm/battlelevel.unity3d
+      Dependencies: {}
+    Info_202:
+      Name: music/bgm/home.unity3d
+      Dependencies: {}
+    Info_203:
+      Name: music/bgm/level.unity3d
+      Dependencies: {}
+    Info_204:
+      Name: music/bgm/main.unity3d
+      Dependencies: {}
+    Info_205:
+      Name: music/sound.unity3d
+      Dependencies: {}
+    Info_206:
+      Name: lua/tolua.unity3d
+      Dependencies: {}
+    Info_207:
+      Name: lua/common.unity3d
+      Dependencies: {}
+    Info_208:
+      Name: lua/config.unity3d
+      Dependencies: {}
+    Info_209:
+      Name: lua/data.unity3d
+      Dependencies: {}
+    Info_210:
+      Name: lua/game.unity3d
+      Dependencies: {}
+    Info_211:
+      Name: lua/logic.unity3d
+      Dependencies: {}
+    Info_212:
+      Name: lua/m_d.unity3d
+      Dependencies: {}
+    Info_213:
+      Name: lua/pb.unity3d
+      Dependencies: {}
+    Info_214:
+      Name: lua/uiv.unity3d
+      Dependencies: {}
+    Info_215:
+      Name: lua/util.unity3d
+      Dependencies: {}
+    Info_216:
+      Name: roleres/bear/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_217:
+      Name: roleres/bear/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_218:
+      Name: roleres/bear/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_219:
+      Name: roleres/beaver/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_220:
+      Name: roleres/beaver/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_221:
+      Name: roleres/beaver/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_222:
+      Name: roleres/bull/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_223:
+      Name: roleres/bull/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_224:
+      Name: roleres/bull/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_225:
+      Name: roleres/bulldog/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_226:
+      Name: roleres/bulldog/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_227:
+      Name: roleres/bulldog/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_228:
+      Name: roleres/candyelf/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_229:
+      Name: roleres/candyelf/lv3.unity3d
+      Dependencies: {}
+    Info_230:
+      Name: roleres/candyelf/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_231:
+      Name: roleres/candyelf/lv6.unity3d
+      Dependencies: {}
+    Info_232:
+      Name: roleres/candyelf/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_233:
+      Name: roleres/candyprince/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_234:
+      Name: roleres/candyprince/lv3.unity3d
+      Dependencies: {}
+    Info_235:
+      Name: roleres/candyprince/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_236:
+      Name: roleres/candyprince/lv6.unity3d
+      Dependencies: {}
+    Info_237:
+      Name: roleres/candyprince/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_238:
+      Name: roleres/cat/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_239:
+      Name: roleres/cat/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_240:
+      Name: roleres/cat/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_241:
+      Name: roleres/chameleon/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_242:
+      Name: roleres/chameleon/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_243:
+      Name: roleres/chameleon/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_244:
+      Name: roleres/countdracula/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_245:
+      Name: roleres/countdracula/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_246:
+      Name: roleres/countdracula/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_247:
+      Name: roleres/crocodile/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_248:
+      Name: roleres/crocodile/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_249:
+      Name: roleres/crocodile/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_250:
+      Name: roleres/deerdoctor.unity3d
+      Dependencies: {}
+    Info_251:
+      Name: roleres/deerdoctor/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_252:
+      Name: roleres/deerdoctor/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_253:
+      Name: roleres/deerdoctor/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_254:
+      Name: roleres/dinosaur/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_255:
+      Name: roleres/dinosaur/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_256:
+      Name: roleres/dinosaur/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_257:
+      Name: roleres/dryad/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_258:
+      Name: roleres/dryad/lv3.unity3d
+      Dependencies: {}
+    Info_259:
+      Name: roleres/dryad/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_260:
+      Name: roleres/dryad/lv6.unity3d
+      Dependencies: {}
+    Info_261:
+      Name: roleres/dryad/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_262:
+      Name: roleres/elephant/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_263:
+      Name: roleres/elephant/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_264:
+      Name: roleres/elephant/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_265:
+      Name: roleres/fatblue/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_266:
+      Name: roleres/fatblue/lv3.unity3d
+      Dependencies: {}
+    Info_267:
+      Name: roleres/fatblue/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_268:
+      Name: roleres/fatblue/lv6.unity3d
+      Dependencies: {}
+    Info_269:
+      Name: roleres/fatblue/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_270:
+      Name: roleres/fox/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_271:
+      Name: roleres/fox/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_272:
+      Name: roleres/fox/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_273:
+      Name: roleres/frog/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_274:
+      Name: roleres/frog/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_275:
+      Name: roleres/frog/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_276:
+      Name: roleres/goat/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_277:
+      Name: roleres/goat/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_278:
+      Name: roleres/goat/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_279:
+      Name: roleres/grandpatrees/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_280:
+      Name: roleres/grandpatrees/lv3.unity3d
+      Dependencies: {}
+    Info_281:
+      Name: roleres/grandpatrees/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_282:
+      Name: roleres/grandpatrees/lv6.unity3d
+      Dependencies: {}
+    Info_283:
+      Name: roleres/grandpatrees/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_284:
+      Name: roleres/graywolf/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_285:
+      Name: roleres/graywolf/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_286:
+      Name: roleres/graywolf/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_287:
+      Name: roleres/greenalgae/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_288:
+      Name: roleres/greenalgae/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_289:
+      Name: roleres/greenalgae/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_290:
+      Name: roleres/hippo/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_291:
+      Name: roleres/hippo/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_292:
+      Name: roleres/hippo/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_293:
+      Name: roleres/hyena/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_294:
+      Name: roleres/hyena/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_295:
+      Name: roleres/hyena/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_296:
+      Name: roleres/jellyfisprincess/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_297:
+      Name: roleres/jellyfisprincess/lv3.unity3d
+      Dependencies: {}
+    Info_298:
+      Name: roleres/jellyfisprincess/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_299:
+      Name: roleres/jellyfisprincess/lv6.unity3d
+      Dependencies: {}
+    Info_300:
+      Name: roleres/jellyfisprincess/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_301:
+      Name: roleres/kangaroo/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_302:
+      Name: roleres/kangaroo/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_303:
+      Name: roleres/kangaroo/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_304:
+      Name: roleres/koala/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_305:
+      Name: roleres/koala/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_306:
+      Name: roleres/koala/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_307:
+      Name: roleres/leopard/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_308:
+      Name: roleres/leopard/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_309:
+      Name: roleres/leopard/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_310:
+      Name: roleres/lion/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_311:
+      Name: roleres/lion/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_312:
+      Name: roleres/lion/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_313:
+      Name: roleres/mermaidqueen/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_314:
+      Name: roleres/mermaidqueen/lv3.unity3d
+      Dependencies: {}
+    Info_315:
+      Name: roleres/mermaidqueen/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_316:
+      Name: roleres/mermaidqueen/lv6.unity3d
+      Dependencies: {}
+    Info_317:
+      Name: roleres/mermaidqueen/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_318:
+      Name: roleres/monkey/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_319:
+      Name: roleres/monkey/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_320:
+      Name: roleres/monkey/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_321:
+      Name: roleres/mouse/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_322:
+      Name: roleres/mouse/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_323:
+      Name: roleres/mouse/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_324:
+      Name: roleres/orangutan/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_325:
+      Name: roleres/orangutan/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_326:
+      Name: roleres/orangutan/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_327:
+      Name: roleres/otter/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_328:
+      Name: roleres/otter/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_329:
+      Name: roleres/otter/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_330:
+      Name: roleres/panda/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_331:
+      Name: roleres/panda/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_332:
+      Name: roleres/panda/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_333:
+      Name: roleres/pangolin/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_334:
+      Name: roleres/pangolin/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_335:
+      Name: roleres/pangolin/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_336:
+      Name: roleres/parrot/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_337:
+      Name: roleres/parrot/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_338:
+      Name: roleres/parrot/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_339:
+      Name: roleres/penguin/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_340:
+      Name: roleres/penguin/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_341:
+      Name: roleres/penguin/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_342:
+      Name: roleres/petdog/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_343:
+      Name: roleres/petdog/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_344:
+      Name: roleres/petdog/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_345:
+      Name: roleres/pig/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_346:
+      Name: roleres/pig/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_347:
+      Name: roleres/pig/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_348:
+      Name: roleres/qcr/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_349:
+      Name: roleres/qcr/lv3.unity3d
+      Dependencies: {}
+    Info_350:
+      Name: roleres/qcr/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_351:
+      Name: roleres/qcr/lv6.unity3d
+      Dependencies: {}
+    Info_352:
+      Name: roleres/qcr/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_353:
+      Name: roleres/rabbit/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_354:
+      Name: roleres/rabbit/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_355:
+      Name: roleres/rabbit/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_356:
+      Name: roleres/raccoon/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_357:
+      Name: roleres/raccoon/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_358:
+      Name: roleres/raccoon/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_359:
+      Name: roleres/racingboy/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_360:
+      Name: roleres/racingboy/lv3.unity3d
+      Dependencies: {}
+    Info_361:
+      Name: roleres/racingboy/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_362:
+      Name: roleres/racingboy/lv6.unity3d
+      Dependencies: {}
+    Info_363:
+      Name: roleres/racingboy/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_364:
+      Name: roleres/rhinoceros/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_365:
+      Name: roleres/rhinoceros/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_366:
+      Name: roleres/rhinoceros/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_367:
+      Name: roleres/seaeagle/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_368:
+      Name: roleres/seaeagle/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_369:
+      Name: roleres/seaeagle/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_370:
+      Name: roleres/snowprincess/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_371:
+      Name: roleres/snowprincess/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_372:
+      Name: roleres/snowprincess/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_373:
+      Name: roleres/snowqueen/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_374:
+      Name: roleres/snowqueen/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_375:
+      Name: roleres/snowqueen/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_376:
+      Name: roleres/squirrel/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_377:
+      Name: roleres/squirrel/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_378:
+      Name: roleres/squirrel/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_379:
+      Name: roleres/tiger/tiger_1.unity3d
+      Dependencies: {}
+    Info_380:
+      Name: roleres/tiger/tiger_2.unity3d
+      Dependencies: {}
+    Info_381:
+      Name: roleres/tiger/tiger_3.unity3d
+      Dependencies: {}
+    Info_382:
+      Name: roleres/toysuperman/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_383:
+      Name: roleres/toysuperman/lv3.unity3d
+      Dependencies: {}
+    Info_384:
+      Name: roleres/toysuperman/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_385:
+      Name: roleres/toysuperman/lv6.unity3d
+      Dependencies: {}
+    Info_386:
+      Name: roleres/toysuperman/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_387:
+      Name: roleres/trendbunny/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_388:
+      Name: roleres/trendbunny/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_389:
+      Name: roleres/trendbunny/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_390:
+      Name: roleres/valkyrie/lv1-lv2.unity3d
+      Dependencies: {}
+    Info_391:
+      Name: roleres/valkyrie/lv3.unity3d
+      Dependencies: {}
+    Info_392:
+      Name: roleres/valkyrie/lv4-lv5.unity3d
+      Dependencies: {}
+    Info_393:
+      Name: roleres/valkyrie/lv6.unity3d
+      Dependencies: {}
+    Info_394:
+      Name: roleres/valkyrie/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_395:
+      Name: roleres/vampiregodfather/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_396:
+      Name: roleres/vampiregodfather/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_397:
+      Name: roleres/vampiregodfather/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_398:
+      Name: roleres/walrus/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_399:
+      Name: roleres/walrus/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_400:
+      Name: roleres/walrus/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_401:
+      Name: roleres/whitedog/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_402:
+      Name: roleres/whitedog/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_403:
+      Name: roleres/whitedog/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_404:
+      Name: roleres/whitehorse/lv1-lv3.unity3d
+      Dependencies: {}
+    Info_405:
+      Name: roleres/whitehorse/lv4-lv6.unity3d
+      Dependencies: {}
+    Info_406:
+      Name: roleres/whitehorse/lv7-lv9.unity3d
+      Dependencies: {}
+    Info_407:
+      Name: ui/prefab/goldroom/item.unity3d
+      Dependencies: {}
+    Info_408:
+      Name: ui/prefab/rolebag.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/mode_1.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: ui/prefab/rolebag/item.unity3d
+        Dependency_3: spritealtas/rolebag.unity3d
+    Info_409:
+      Name: ui/prefab/rolebag/item.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/mode_1.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: spritealtas/home.unity3d
+        Dependency_3: spritealtas/rolebag.unity3d
+    Info_410:
+      Name: map/pack_2.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_411:
+      Name: map/pack_3.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_412:
+      Name: map/pack_4.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_413:
+      Name: map/pack_5.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_414:
+      Name: map/pack_6.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_415:
+      Name: map/pack_7.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_416:
+      Name: map/pack_8.unity3d
+      Dependencies:
+        Dependency_0: shadow.unity3d
+        Dependency_1: effect.unity3d
+    Info_417:
+      Name: ui/prefab/barrier/item.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/item_1.unity3d
+        Dependency_1: spritealtas/icon.unity3d
+        Dependency_2: spritealtas/common.unity3d
+        Dependency_3: spritealtas/worldmapui.unity3d
+        Dependency_4: ui/prefab/barrier.unity3d
+    Info_418:
+      Name: ui/prefab/rechargecard.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+    Info_419:
+      Name: ui/prefab/rolebag/tips.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/mode_1.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: ui/prefab/common.unity3d
+    Info_420:
+      Name: ui/prefab/shopsystem.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/item_4.unity3d
+        Dependency_1: spritealtas/item_1.unity3d
+        Dependency_2: spritealtas/common.unity3d
+        Dependency_3: spritealtas/shop.unity3d
+        Dependency_4: ui/prefab/common.unity3d
+    Info_421:
+      Name: ui/prefab/shopsystem/item.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: uieffect.unity3d
+        Dependency_2: spritealtas/item_4.unity3d
+        Dependency_3: spritealtas/item_3.unity3d
+        Dependency_4: spritealtas/icon.unity3d
+        Dependency_5: spritealtas/common.unity3d
+        Dependency_6: spritealtas/shop.unity3d
+        Dependency_7: ui/prefab/common.unity3d
+    Info_422:
+      Name: spritealtas/rolebag.unity3d
+      Dependencies: {}
+    Info_423:
+      Name: ui/prefab/rolelibrary.unity3d
+      Dependencies:
+        Dependency_0: effect.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: spritealtas/home.unity3d
+        Dependency_3: spritealtas/rolebag.unity3d
+    Info_424:
+      Name: ui/prefab/rolelibrary/item.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/icon.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: spritealtas/library.unity3d
+        Dependency_3: spritealtas/rolebag.unity3d
+    Info_425:
+      Name: ui/prefab/mytest.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/common.unity3d
+    Info_426:
+      Name: ui/prefab/book/item.unity3d
+      Dependencies:
+        Dependency_0: spritealtas/icon.unity3d
+        Dependency_1: spritealtas/common.unity3d
+        Dependency_2: spritealtas/library.unity3d
+    Info_427:
+      Name: ui/prefab/chapter/item.unity3d
+      Dependencies:
+        Dependency_0: ui/prefab/chapter.unity3d

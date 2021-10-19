@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 339802852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd6b76ddc7ff929abbd95efa5733c8ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db5328b9d9f2eec99dff42510835c4c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UIRole/Role_632/Role_63204.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63206.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63208.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63207.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63209.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63203.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63205.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63202.prefab
+- Assets/ArtResources/UIRole/Role_632/Role_63210.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/lion/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/lion/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/lion/lv7-lv9.unity3d

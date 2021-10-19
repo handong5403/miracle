@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 593635534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb297da23471a04a7b9c33b9ee4c0925
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/common/functions.bytes
+- Assets/tempStreamingAssets/lua/lua/common/uifunctions.bytes
+- Assets/tempStreamingAssets/lua/lua/common/mytest.bytes
+- Assets/tempStreamingAssets/lua/lua/common/ehelper.bytes
+- Assets/tempStreamingAssets/lua/lua/common/define.bytes
+- Assets/tempStreamingAssets/lua/lua/common/archivehelp.bytes
+Dependencies: []

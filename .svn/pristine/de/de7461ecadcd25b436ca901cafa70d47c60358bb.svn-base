@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 524624318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34f0e670507b191d3de76d5c18ca9bf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6df3030e65e328583eab0113a5144d0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Role/Role_602/Role_60204.prefab
+- Assets/ArtResources/Role/Role_602/Role_60203.prefab
+- Assets/ArtResources/Role/Role_602/Role_60202.prefab
+- Assets/ArtResources/Role/Role_602/Role_60205.prefab
+- Assets/ArtResources/Role/Role_602/Role_60210.prefab
+- Assets/ArtResources/Role/Role_602/Role_60209.prefab
+- Assets/ArtResources/Role/Role_602/Role_60206.prefab
+- Assets/ArtResources/Role/Role_602/Role_60207.prefab
+- Assets/ArtResources/Role/Role_602/Role_60208.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/whitehorse/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/whitehorse/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/whitehorse/lv7-lv9.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

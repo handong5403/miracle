@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3771323085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f66d27d84c633e228079fad8b02aff0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52ee20e015586416387eab139d5990cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f793258faa82fe5498f73e0896cdc996, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/SceneUI/Heal_goddess.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/House_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Glass_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Target_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Heal_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Limit_Activity_Enter_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Arrow_tips_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Extra_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Land_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Mission_Expore_tips_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Activity_Reward_cd_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Daily_box_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Click_UnLouck_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/kala_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Double_check_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Limit_Unlock_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Secret_Cloud_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Server_Waiting_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Finger_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Loot_Object.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/uplevel_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Score_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Building_item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Monster_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Tips_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Merge_Flow_Item.prefab
+- Assets/ArtResources/UI/Prefab/SceneUI/Collect_item.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3745096071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af4fd61bc77319593e22bc15caec23b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75913422db94b6aec2cc2819b66c55c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11993e31475e8894ab3ed88b06e1ade4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b85c61337f0e8bc428a01faa84f446d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5761bfb73b883e249b90ab068a8007f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 423a462be25311343a8ff0778addf360, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/map/Home/Map_home_decoration_mesh.asset
+- Assets/ArtResources/map/Home/Map_home_grid_mesh.asset
+- Assets/ArtResources/map/Home/Map_home.prefab
+- Assets/ArtResources/map/Home/Map_home_cloud_mesh.asset
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/effect.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

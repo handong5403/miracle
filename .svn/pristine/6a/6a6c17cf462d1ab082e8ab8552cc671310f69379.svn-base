@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "downUrlforAnd": "https://play.google.com/store/apps/details?id=com.nutspower.mergegame",
+  "webUrl": "https://hclencdntest.bbgame.global/resources",
+  "jsonUrl": "https://hclencdntest.bbgame.global/resources",
+  "gameip": "119.3.26.74",
+  "gameport": 9001,
+  "phpUrl": "http://18.208.112.111",
+  "dotLink": "http://18.208.112.111:8603",
+  "WorkMode": "Debug"
+}

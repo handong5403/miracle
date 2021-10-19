@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2889802248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee9584f270552c07fee4a6d4a203854c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/login_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/role_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/mail_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/gatelimit_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/mag_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/error_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/shop_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pbc/protobuf.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/item_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/common_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/gateact_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/gate_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/alliance_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/activity_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/chat_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/task_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/home_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pbc/parser.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/friend_pb.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/protocol.bytes
+- Assets/tempStreamingAssets/lua/lua/pb/pblua/protocols.bytes
+Dependencies: []

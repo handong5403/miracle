@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 1996194676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 659331a1514b5c0dfe6f446e55c9b756
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/data/goldroom/goldroommgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/baginfomgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/contest/passportinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/login/logingameipmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/class.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/info/missionstatistics.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/missiontcp.bytes
+- Assets/tempStreamingAssets/lua/lua/data/chestroom/chestroominfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/worldmap/worldmapboxrewardinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/baginfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/itemdata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/barrier/info/maplevelinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/shop/shopmoneydata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/shop/shopiteminfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/settingsdata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/shop/shoprule.bytes
+- Assets/tempStreamingAssets/lua/lua/data/guide/guidetable.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/handbookinfomgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/shop/shopdatamgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/info/activitylevelmissionmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/guideinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/item/baginfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/info/homemissionmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/chapter/info/chapterinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/homescore.bytes
+- Assets/tempStreamingAssets/lua/lua/data/contest/passportmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/awarddata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/guide/guideinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/info/missioninfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/kala/kalamgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/worldmap/worldmaplevelmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/guide/guiderule.bytes
+- Assets/tempStreamingAssets/lua/lua/data/login/loginipinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/playersavedata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/goldroom/goldroominfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/item/handbookinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/worldmap/worldmaptcp.bytes
+- Assets/tempStreamingAssets/lua/lua/data/luasdktool.bytes
+- Assets/tempStreamingAssets/lua/lua/data/roleinfodata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/item/handbookiteminfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/playersaveevent.bytes
+- Assets/tempStreamingAssets/lua/lua/data/chestroom/chestroommgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/mission/missionutil.bytes
+- Assets/tempStreamingAssets/lua/lua/data/moneydata.bytes
+- Assets/tempStreamingAssets/lua/lua/data/cardmgr.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/handbookinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/item/bagdragonhandbook.bytes
+- Assets/tempStreamingAssets/lua/lua/data/texttool.bytes
+- Assets/tempStreamingAssets/lua/lua/data/book/handbookrule.bytes
+- Assets/tempStreamingAssets/lua/lua/data/activityadditemtool.bytes
+- Assets/tempStreamingAssets/lua/lua/data/worldmap/worldmaplevelinfo.bytes
+- Assets/tempStreamingAssets/lua/lua/data/uitool.bytes
+Dependencies: []

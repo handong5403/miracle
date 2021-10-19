@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1832553724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0af4ac38f6976810492ed2307af7099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Shader/particelStencle.shader
+- Assets/Resources/Shader/particleMask.shader
+- Assets/Resources/Shader/MyDefault.mat
+- Assets/Resources/Shader/Custom/UIDefault.mat
+- Assets/Resources/Shader/DiffuseBump.shader
+- Assets/Resources/Shader/decoration.mat
+- Assets/Resources/Shader/RapidBlurEffect.shader
+- Assets/Resources/Shader/MyHalf.mat
+- Assets/Resources/Shader/CloudMesh.mat
+- Assets/Resources/Shader/imageWhite.shader
+- Assets/Resources/Shader/Gray2.mat
+- Assets/Resources/Shader/Custom/Custom - Texture - uv.mat
+- Assets/Resources/Shader/particleMask.mat
+- Assets/Resources/Shader/MyHalf.shader
+- Assets/Resources/Shader/mask.mat
+- Assets/Resources/Shader/Custom/Custom - Texture.shader
+- Assets/Resources/Shader/MaskIcon.shader
+- Assets/Resources/Shader/Indicator.shader
+- Assets/Resources/Shader/GrayBlack.mat
+- Assets/Resources/Shader/Custom/Custom 1 Bg.mat
+- Assets/Resources/Shader/MyHalfGray.shader
+- Assets/Resources/Shader/Custom/Custom - Texture Gray.mat
+- Assets/Resources/Shader/Gray.mat
+- Assets/Resources/Shader/Custom/Custom - Texture.mat
+- Assets/Resources/Shader/Gray3.mat
+- Assets/Resources/Shader/MapMesh.mat
+- Assets/Resources/Shader/Custom/Custom - Texture Gray.shader
+- Assets/Resources/Shader/Custom/Custom - Texture - uv.shader
+- Assets/Resources/Shader/Particles.mat
+- Assets/Resources/Shader/SpritesDefault.mat
+- Assets/Resources/Shader/Custom/Custom - Texture Super Gray.mat
+- Assets/Resources/Shader/Standard.mat
+- Assets/Resources/Shader/LightSick.shader
+- Assets/Resources/Shader/MyShaderGray.shader
+- Assets/Resources/Shader/UIMask.mat
+- Assets/Resources/Shader/masked.mat
+- Assets/Resources/Shader/BackBlur.mat
+- Assets/Resources/Shader/Sprites.mat
+- Assets/Resources/Shader/BackBlur.shader
+- Assets/Resources/Shader/MapMesh.shader
+- Assets/Resources/Shader/DarkEffect.shader
+- Assets/Resources/Shader/Custom/UIDefault.shader
+- Assets/Resources/Shader/Custom/Custom 2 Bg.mat
+- Assets/Resources/Shader/TestImag/imageWhite2.shader
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/tp.unity3d

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1226784050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e738801a2da6bc1f9f94e2d9afe6ed8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3efe856a08582bf5960fdaa1f1d4cb82
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Monster/Scene_item_10702.prefab
+- Assets/ArtResources/Monster/Scene_item_10703.prefab
+- Assets/ArtResources/Monster/Scene_item_10701.prefab
+- Assets/ArtResources/Monster/Scene_item_10704.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/monster_animate.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/uieffect.unity3d

@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 869295655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a69a5dba60ee0c7da1bb56f219c8a36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86cd3c039353e627f08c13c29bd9558f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aaa8d5078f496f40a435abcbfb0542b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca86fc57535713941bde4b92d7bec3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c730891bdda6a8343b11703e56879412, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelTipsPasspurchaseView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelDailymissionView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelOnceGift.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelSpendUnlockRoundView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelMainView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelDragonpowerView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelTipsTimeisupView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelAllFinishView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelEnergyView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelProgressView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelStarCountView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitLevelSpendUnlockView.prefab
+- Assets/ArtResources/UI/Prefab/LimitBarrier/LimitEntranceGridItem.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/uieffect.unity3d

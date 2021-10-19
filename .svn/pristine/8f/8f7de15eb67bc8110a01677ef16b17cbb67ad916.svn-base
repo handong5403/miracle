@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 866212243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edc525a8e0c1c1a8b7a09e8ae7a9d7dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/logic/game.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/events.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/main.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/network.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/luaclass.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/uimgr.bytes
+- Assets/tempStreamingAssets/lua/lua/logic/eventlib.bytes
+Dependencies: []

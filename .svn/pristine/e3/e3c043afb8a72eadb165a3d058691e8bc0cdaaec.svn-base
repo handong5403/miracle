@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1464736299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b2762c58a144ee8231c647d903195fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/lua/config/t_random_item.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_limitedlevel_integral.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_annaconfig.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_levelunlock.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_spritepath.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitiesconfig.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_shop.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_language_en.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_friend.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_item.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_dragon.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_monster.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_dailymission.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitiesmonthsign.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_gmfunction.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_map.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitiesgrowthfund.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_quality.bytes
+- Assets/tempStreamingAssets/lua/lua/config/config.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_limitedunlock.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitylevel.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_handbook.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_mission.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activityseason.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_guide.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_shopdaily.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_droplist.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitylevelchange.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_dragonextravit.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_homeunlock.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activityseason_mission.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_skill.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_shoprecharge.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_config.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_discountpackage.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_rankicon.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_worldmap_chapter.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_flag.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitylevel_box.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_gamesound.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_random_name.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_random_group.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_presentation.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_book_tips.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_languagemap.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_tips.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_effect.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_dragontips.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activityunlock.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitylevel_integral.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_dailyreward.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activitiesonlinereward.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_action.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_kalaquest.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_uiitem.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_limitedlevelconfig.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_society.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_worldmap.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_language_zh_hk.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_language.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_activityholiday.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_new_guide.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_push.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_language_zh_cn.bytes
+- Assets/tempStreamingAssets/lua/lua/config/t_level_mistunlock.bytes
+Dependencies: []

@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1139190329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adfc3922ef39d3f8fb9809dafa850770
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb259ca5fe925a0504c7dad6a1f83edd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11993e31475e8894ab3ed88b06e1ade4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b85c61337f0e8bc428a01faa84f446d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5761bfb73b883e249b90ab068a8007f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 423a462be25311343a8ff0778addf360, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/map/pack_4/Map36.prefab
+- Assets/ArtResources/map/pack_4/Map31_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map31_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map37.prefab
+- Assets/ArtResources/map/pack_4/Map35_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map40_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map40.prefab
+- Assets/ArtResources/map/pack_4/Map37_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map34_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map33_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map33_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map39_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map36_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map38_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map36_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map38_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map31.prefab
+- Assets/ArtResources/map/pack_4/Map35_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map33.prefab
+- Assets/ArtResources/map/pack_4/Map32_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map32.prefab
+- Assets/ArtResources/map/pack_4/Map35.prefab
+- Assets/ArtResources/map/pack_4/Map38.prefab
+- Assets/ArtResources/map/pack_4/Map39.prefab
+- Assets/ArtResources/map/pack_4/Map37_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map34_grid_mesh.asset
+- Assets/ArtResources/map/pack_4/Map40_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map39_decoration_mesh.asset
+- Assets/ArtResources/map/pack_4/Map34.prefab
+- Assets/ArtResources/map/pack_4/Map32_decoration_mesh.asset
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/effect.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3783532150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9596c46fd3a79184e144801331eac3dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db5328b9d9f2eec99dff42510835c4c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UIRole/Role_653/Role_65304.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65310.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65305.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65303.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65309.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65308.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65307.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65306.prefab
+- Assets/ArtResources/UIRole/Role_653/Role_65302.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/vampiregodfather/lv1-lv3.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/vampiregodfather/lv4-lv6.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/vampiregodfather/lv7-lv9.unity3d

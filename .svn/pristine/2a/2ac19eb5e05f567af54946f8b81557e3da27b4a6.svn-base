@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 198754222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b2db497a514dd4ef31d45cb3d28e789
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Music/Bgm/main/bgm_main.wav
+Dependencies: []

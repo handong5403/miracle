@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4205348725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ef8a9e5def20557e74e6dd74e3e2cf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/SpriteAltas/Loading/Loading.spriteatlas
+Dependencies: []

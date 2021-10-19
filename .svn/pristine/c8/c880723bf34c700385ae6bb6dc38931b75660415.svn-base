@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3082430254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4391c55d51be1b13e6d0de576928a587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c739bf9b6ec91156d7cd68d9448b0a25
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/RoleRes/fatblue/lv3/fatblue_Lv3.skel.bytes
+- Assets/ArtResources/RoleRes/fatblue/lv3/fatblue_Lv3.png
+- Assets/ArtResources/RoleRes/fatblue/lv3/fatblue_Lv3_SkeletonData.asset
+- Assets/ArtResources/RoleRes/fatblue/lv3/fatblue_Lv3_Atlas.asset
+- Assets/ArtResources/RoleRes/fatblue/lv3/fatblue_Lv3_Material.mat
+Dependencies: []

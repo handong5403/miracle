@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 3966577791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e2c371f816b3b2699e7964e78113c99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b09df2873a2646c962df149fa3219818
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac7cefc65eadadd4f9511eee9e6340ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f793258faa82fe5498f73e0896cdc996, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/MapUI/FingerItem.prefab
+- Assets/ArtResources/MapUI/CollectObject.prefab
+- Assets/ArtResources/MapUI/MergeFlowItem.prefab
+- Assets/ArtResources/MapUI/ZentempleItem.prefab
+- Assets/ArtResources/MapUI/LootObject.prefab
+- Assets/ArtResources/MapUI/DoubleCheckItem.prefab
+- Assets/ArtResources/MapUI/MonsterItem.prefab
+- Assets/ArtResources/MapUI/ClickUnLouckMap.prefab
+- Assets/ArtResources/MapUI/activityexploreObj.prefab
+- Assets/ArtResources/MapUI/ActivityexploreItem.prefab
+- Assets/ArtResources/MapUI/LandItem.prefab
+- Assets/ArtResources/MapUI/Healgoddess.prefab
+- Assets/ArtResources/MapUI/ExtraFlowItem.prefab
+- Assets/ArtResources/MapUI/ScoreFlowItem.prefab
+- Assets/ArtResources/MapUI/TargetFlowItem.prefab
+- Assets/ArtResources/MapUI/ServerWaitingItem.prefab
+- Assets/ArtResources/MapUI/kalaObj.prefab
+- Assets/ArtResources/MapUI/LimitLevelEntranceItem.prefab
+- Assets/ArtResources/MapUI/HouseFlowItem.prefab
+- Assets/ArtResources/MapUI/BuildingItem.prefab
+- Assets/ArtResources/MapUI/CloudFlowItem.prefab
+- Assets/ArtResources/MapUI/continueItem.prefab
+- Assets/ArtResources/MapUI/ActivityLevelEntranceBtnView_map.prefab
+- Assets/ArtResources/MapUI/DailyChestCounter.prefab
+- Assets/ArtResources/MapUI/ArrowObjectMap.prefab
+- Assets/ArtResources/MapUI/TipsFlowItem.prefab
+- Assets/ArtResources/MapUI/HealFlowItem.prefab
+- Assets/ArtResources/MapUI/ChapterItem.prefab
+- Assets/ArtResources/MapUI/LimitLevelUnlockItem.prefab
+- Assets/ArtResources/MapUI/GlassItem.prefab
+- Assets/ArtResources/MapUI/TimetocollectItem.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/effect.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/shadow.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/common.unity3d
