@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1757155283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d8a82c025b8b6dfafc5d4a9c780b3a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f3b0316a9aa17c1465faaec63e5504e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/OrderResources/PassPort/icon_10002.prefab
+- Assets/ArtResources/OrderResources/PassPort/icon_10001.prefab
+- Assets/ArtResources/OrderResources/PassPort/poster_10002.prefab
+- Assets/ArtResources/OrderResources/PassPort/icon_big_10002.prefab
+- Assets/ArtResources/OrderResources/PassPort/poster_10001.prefab
+- Assets/ArtResources/OrderResources/PassPort/icon_big_10001.prefab
+Dependencies: []

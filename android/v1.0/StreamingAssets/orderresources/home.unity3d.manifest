@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4104397710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9089d8928f97882104f8097b57ed41b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1a3a5c5d52d68f7fac67005d812471d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/OrderResources/Home/Paid_land_3.prefab
+- Assets/ArtResources/OrderResources/Home/Paid_land_2.prefab
+- Assets/ArtResources/OrderResources/Home/Paid_land_5.prefab
+- Assets/ArtResources/OrderResources/Home/Paid_land_1.prefab
+- Assets/ArtResources/OrderResources/Home/Paid_land_4.prefab
+- Assets/ArtResources/OrderResources/Home/Paid_land_6.prefab
+Dependencies: []

@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2083841411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7930e143ef42b32d1c56e22866e2585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d9597e32719e4da9fd7dd4f1a980460
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aaa8d5078f496f40a435abcbfb0542b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f590f772bd942f24096367a14401187a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca86fc57535713941bde4b92d7bec3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/ShopSystem/DiamondShowView.prefab
+- Assets/ArtResources/UI/Prefab/ShopSystem/ShopView.prefab
+- Assets/ArtResources/UI/Prefab/ShopSystem/MonthCardView.prefab
+- Assets/ArtResources/UI/Prefab/ShopSystem/ShopTipsView.prefab
+- Assets/ArtResources/UI/Prefab/ShopSystem/Dragon_Crystal_Animation2.prefab
+- Assets/ArtResources/UI/Prefab/ShopSystem/Dragon_Crystal_Animation.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/item_1.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/item_4.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/shop.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/common.unity3d

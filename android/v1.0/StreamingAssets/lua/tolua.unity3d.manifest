@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 261148242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e73b668daa12005a91cf07ac6bc28603
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/bc.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/slot.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_mips64el.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/mbox.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/misc/misc.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/misc/utf8.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/touch.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/lpeg/re.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_ppc.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/headers.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/profiler.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/layermask.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/mathf.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/wire_format.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/injection/luainjectionbus.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/containers.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/raycasthit.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/http.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/injection/injectionbridgeinfo.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/valuetype.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/bcsave.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/tolua.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/bounds.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/ltn12.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_arm.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_mips.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/decoder.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dump.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/reflection/bindingflags.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/color.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/typeof.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/injection/luainjectionstation.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/vector4.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_mipsel.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/timer.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/tp.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/vector2.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/list.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/misc/strict.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/encoder.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/vector3.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/quaternion.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/protobuf.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/type_checkers.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/plane.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/event.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/v.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/zone.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/system/coroutine.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_arm64.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/misc/functions.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/mime.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/ray.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_arm64be.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/p.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_x86.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/ftp.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/smtp.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_x64.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/cjson/util.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/vmdef.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/socket/url.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/text_format.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/jit/dis_mips64.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/listener.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/protobuf/descriptor.bytes
+- Assets/tempStreamingAssets/lua/tolua/lua/unityengine/time.bytes
+Dependencies: []

@@ -1,0 +1,538 @@
+ManifestFileVersion: 0
+CRC: 1499184577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee7e0e3cec94f43fed49eda64108a9c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c8590c344f286566b10834d6c0591bb7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aaa8d5078f496f40a435abcbfb0542b, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79c0a3538591f5940bded31cdf579f36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d99f3a535696e0d46b19cb3a00d4d8d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b9950085e5766a428379e90cdd7a639, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtWork/Shader/EffectSweep.shader
+- Assets/ArtWork/Effect/E_Texture/T_UI/juanzhou1.png
+- Assets/ArtResources/Effect/effect_goumai.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00045.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00005.png
+- Assets/ArtResources/Effect/effect_tgqj.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/kulou.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00358_04.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00001.png
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00194.png
+- Assets/ArtResources/Effect/effect_mission_light.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan03.mat
+- Assets/ArtResources/Effect/effect_item_mysterycloud.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00162.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00157.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00505.mat
+- Assets/ArtResources/Effect/effect_ghost_die.prefab
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/Materials/shanguang_00090.mat
+- Assets/ArtResources/Effect/effect_item_foresttemple_06.prefab
+- Assets/ArtResources/Effect/effect_ld_5.prefab
+- Assets/ArtResources/Effect/effect_diaoxiang_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_025.mat
+- Assets/ArtResources/Effect/effect_item_foresttemple_08.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00479.png
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/fire_002_2151_g2138.tga
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00017.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00114_Blend 1.mat
+- Assets/ArtResources/Effect/effect_item_foresttemple_03.prefab
+- Assets/ArtResources/Effect/effect_lq13.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_010.png
+- Assets/ArtWork/Effect/Unique_Projectiles_Volume_2/Textures/Gluie02_3x3.png
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Dan03.png
+- Assets/ArtResources/Effect/effect_item_foresttemple_12.prefab
+- Assets/ArtResources/Effect/effect_ghost_attack.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_014.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_fuwen.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_016.png
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00165.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00310.mat
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/fazhen_00091.png
+- Assets/ArtResources/Effect/effect_xiaochansi.prefab
+- Assets/ArtResources/Effect/effect_sj.prefab
+- Assets/ArtResources/Effect/effect_tehuilv23_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/Materials/fire_xulie802.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_015.png
+- Assets/ArtResources/Effect/effect_tehui_2.prefab
+- Assets/ArtWork/Effect/E_Animation/Anim_effect_xiaochansi.anim
+- Assets/ArtResources/Effect/effect_build_home 1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/000000000144.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_0001.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00314.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_gold.png
+- Assets/ArtResources/Effect/effect_lianji.prefab
+- Assets/ArtResources/Effect/effect_diaoxiang_LV3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/Materials/shanguang_00092.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00053.mat
+- Assets/ArtResources/Effect/effect_zjm.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Yangu.png
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/shanguang_00093.png
+- Assets/ArtResources/Effect/effect_gydx.prefab
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/Materials/shanguang_00093.mat
+- Assets/ArtResources/Effect/effect_ld_9.prefab
+- Assets/ArtResources/Effect/effect_csm_11.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00001.mat
+- Assets/ArtResources/Effect/effect_qs.prefab
+- Assets/ArtResources/Effect/effect_tehuilv12_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_002.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00244.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/UI_path_00374.png
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/Materials/fire_loop_sheet.mat
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/Materials/fazhen_00091.mat
+- Assets/ArtResources/Effect/effect_ld_4.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00504.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_281.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Jingling.png
+- Assets/ArtResources/Effect/effect_animal_collecttarget.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00001.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_018.png
+- Assets/ArtResources/Effect/effect_ld_10.prefab
+- Assets/ArtResources/Effect/effect_zhiyu_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Yangu.mat
+- Assets/ArtResources/Effect/Sea.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00164.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_024.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/huan_022.tga
+- Assets/ArtResources/Effect/effect_qsx.prefab
+- Assets/ArtResources/Effect/effect_item_foresttemple_13.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00045.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_gold.mat
+- Assets/ArtResources/Effect/effect_item_hopestar.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00474.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00130.png
+- Assets/ArtResources/Effect/effect_hybx.prefab
+- Assets/ArtResources/Effect/effect_item_foresttemple_05.prefab
+- Assets/ArtResources/Effect/effect_commion_diamond.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00053.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_004.png
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Dansui04.png
+- Assets/ArtWork/Effect/E_Texture/T_Sweep/sweep_002.png
+- Assets/ArtWork/Effect/Confetti Particles/Materials/Confetti - Circles MAT.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00087.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00179.mat
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/Materials/fazhen_00007.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_3001.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_013.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/Lizi_003.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Longmask.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00006.mat
+- Assets/ArtResources/Effect/effect_xcshy.prefab
+- Assets/ArtWork/Effect/E_Animation/Anim_effect_longxue.anim
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/UI_lizi_00080.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00005.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00174.mat
+- Assets/ArtResources/Effect/effect_tehuilv21.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00114_distor.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_Lihua.mat
+- Assets/ArtResources/Effect/effect_csm_6.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00354.png
+- Assets/ArtResources/Effect/effect_item_foresttemple_04.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00087.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/UI_path_00374.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_023.png
+- Assets/ArtResources/Effect/effect_gelunbu_6.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00012.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_008.png
+- Assets/ArtResources/Effect/Wave_island_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Dan05.png
+- Assets/ArtResources/Effect/effecti_jiaoyi_1.prefab
+- Assets/ArtResources/Effect/effect_item_foresttemple_02.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/Materials/fire.mat
+- Assets/ArtResources/Effect/effect_tehuilv11_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_shi.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_003.mat
+- Assets/ArtResources/Effect/effect_tehui_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00298.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00056.mat
+- Assets/ArtResources/Effect/effect_gelunbu_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan02.mat
+- Assets/ArtWork/Effect/E_Texture/T_UI/juanzhou2.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00206.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_Dissolve.mat
+- Assets/ArtResources/Effect/effect_shengji.prefab
+- Assets/ArtResources/Effect/effect_pohuai.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/Materials/fazhen_00013.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/Materials/yanhuo_00002_Blend.mat
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/T_xulie_002.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00358_02.mat
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/shanguang_00124.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00474.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00089_white.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_016.mat
+- Assets/ArtWork/Shader/EffectsAdd.shader
+- Assets/ArtResources/Effect/effect_tt.prefab
+- Assets/ArtResources/Effect/effect_cj12.prefab
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/Materials/shanguang_00126.mat
+- Assets/ArtResources/Effect/effect_animal_attack.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/huan_022.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00261.mat
+- Assets/ArtWork/Effect/E_Texture/T_UITiling/UITiling_001.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/UI_lizi_00162.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_017.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan01.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_GW.mat
+- Assets/ArtResources/Effect/effect_ld_8.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Dan04.png
+- Assets/ArtResources/Effect/effect_zhiyu_1.prefab
+- Assets/ArtWork/Shader/EffectsDistort.shader
+- Assets/ArtResources/Effect/effect_tehuilv21_2.prefab
+- Assets/ArtResources/Effect/effect_gelunbu.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00260.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00067.mat
+- Assets/ArtResources/Effect/effect_item_foresttemple_09.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00318.png
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00173.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00344.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/UI_lizi_00081.mat
+- Assets/ArtResources/Effect/effect_lq14.prefab
+- Assets/ArtResources/Effect/effect_chaichu.prefab
+- Assets/ArtWork/Effect/Defense/Texture2D/Materials/bretto_smoke_4_grey_sheet.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00505.png
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/shanguang_00090.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00358.png
+- Assets/ArtWork/Effect/Defense/Texture2D/glow_4225.png
+- Assets/ArtResources/Effect/effect_csm_1.prefab
+- Assets/ArtResources/Effect/effect_commion_unlock.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00281.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/yanhuo_00002.png
+- Assets/ArtResources/Effect/effect_longxl.prefab
+- Assets/ArtResources/Effect/effect_tehuilv32.prefab
+- Assets/ArtWork/Effect/Defense/Texture2D/Materials/glow_4225.mat
+- Assets/ArtWork/Effect/E_FBX/Plane001.FBX
+- Assets/ArtResources/Effect/effect_hecheng.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Danshuijing.mat
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/fazhen_00082.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00071.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/Path_052.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/Materials/yanhuo_00020.mat
+- Assets/ArtWork/Effect/Unique_Projectiles_Volume_2/Materials/Gluie02_3x3.mat
+- Assets/ArtWork/Effect/E_Animation/effect_longxue.controller
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_010.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00142.png
+- Assets/ArtResources/Effect/Wave_island_5.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_009.mat
+- Assets/ArtResources/Effect/effect_csc.prefab
+- Assets/ArtResources/Effect/effect_ghost_pollute.prefab
+- Assets/ArtResources/Effect/effect_lq12.prefab
+- Assets/ArtResources/Effect/effect_mission_updte.prefab
+- Assets/ArtResources/Effect/effect_ld_1.prefab
+- Assets/ArtResources/Effect/effect_item_chest.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00012.png
+- Assets/ArtResources/Effect/Wave_island_8.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/kulou.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_011.png
+- Assets/ArtResources/Effect/effect_item_foresttemple_07.prefab
+- Assets/ArtResources/Effect/effect_item_foresttemple_11.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00067_1.png
+- Assets/ArtResources/Effect/effect_ld_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00022.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_001.mat
+- Assets/ArtResources/Effect/effect_heiwu.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_022.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00344.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_014.mat
+- Assets/ArtWork/Effect/E_Texture/T_UI/Materials/T_UI02.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_019.mat
+- Assets/ArtResources/Effect/effect_jiangli.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_024.png
+- Assets/ArtWork/Effect/Defense/Texture2D/Materials/e_thunder01.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00207.mat
+- Assets/ArtResources/Effect/effect_ld_6.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dansui04.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_shi.png
+- Assets/ArtResources/Effect/effect_ld_7.prefab
+- Assets/ArtResources/Effect/effect_smy2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_005.png
+- Assets/ArtWork/Effect/E_Texture/T_UI/Materials/T_UI03.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_021.png
+- Assets/ArtResources/Effect/effect_weizhan.prefab
+- Assets/ArtResources/Effect/effect_diaoxiang_LV4.prefab
+- Assets/ArtResources/Effect/Wave_island_1.prefab
+- Assets/ArtResources/Effect/effect_item_diamond.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00201.mat
+- Assets/ArtResources/Effect/effect_ghost_statue_destroy.prefab
+- Assets/ArtResources/Effect/effect_tehuilv33_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/shanguang_00092.png
+- Assets/ArtWork/Effect/E_Texture/T_UITiling/Materials/UITiling_001.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00095.png
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00095.mat
+- Assets/ArtResources/Effect/effect_jdhjg.prefab
+- Assets/ArtResources/Effect/effect_huoyan_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00313.png
+- Assets/ArtResources/Effect/effect_commion_gold.prefab
+- Assets/ArtResources/Effect/effect_diaoxiang_LV2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_GW.png
+- Assets/ArtResources/Effect/effect_shu.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00163.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/000000000144.tga
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_015.mat
+- Assets/ArtResources/Effect/effect_caiji.prefab
+- Assets/ArtResources/Effect/effect_longxue.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00178.png
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/fire_loop_sheet.png
+- Assets/ArtResources/Effect/effect_dan_1_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/Materials/T_xulie_001.mat
+- Assets/ArtResources/Effect/effect_hlbx.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_006.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Jingling.mat
+- Assets/ArtResources/Effect/effect_zenli.prefab
+- Assets/ArtResources/Effect/effect_dianjinsu.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fazhen/fazhen_00007.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_022.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_004.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00313.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00373.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_018.mat
+- Assets/ArtResources/Effect/Wave_island_9.prefab
+- Assets/ArtResources/Effect/effect_baoxiang_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00130.mat
+- Assets/ArtResources/Effect/effect_gelunbu_5.prefab
+- Assets/ArtResources/Effect/Wave_island_2.prefab
+- Assets/ArtResources/Effect/effect_commion_stone.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/UI_lizi_00082.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00089_white.png
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00173.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_zuanshi.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_012.mat
+- Assets/ArtResources/Effect/effect_guide_finger.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/huan_022_Distors.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_008.mat
+- Assets/ArtResources/Effect/effect_gelunbu_2_2.prefab
+- Assets/ArtResources/Effect/effect_lq15.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00194_Distor.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/flare2c.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/UI_lizi_00161.png
+- Assets/ArtResources/Effect/effect_tehuilv12.prefab
+- Assets/ArtResources/Effect/effect_build_activity.prefab
+- Assets/ArtResources/Effect/effect_ghost_door.prefab
+- Assets/ArtResources/Effect/effect_tehuilv11.prefab
+- Assets/ArtResources/Effect/effect_item_cloud.prefab
+- Assets/ArtResources/Effect/effect_ghost_show.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/flare2c.png
+- Assets/ArtResources/Effect/effect_renwu.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00057.mat
+- Assets/ArtResources/Effect/effect_dan_1_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00270.png
+- Assets/ArtWork/Effect/E_Texture/T_Sweep/Sweep_Liushui.png
+- Assets/ArtResources/Effect/effect_dan_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00201.png
+- Assets/ArtResources/Effect/effect_item_foresttemple_10.prefab
+- Assets/ArtResources/Effect/effect_csm_12.prefab
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/yanhuo_00049.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_023.mat
+- Assets/ArtWork/Effect/EpicToonFX/Materials/Confetti/confetti.mat
+- Assets/ArtResources/Effect/effect_jiangli_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/guangci001.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/Sun_Shines_02.mat
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/Materials/shanguang_00124.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/Path_004.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/Spark_02.mat
+- Assets/ArtResources/Effect/effect_animal_attackhit.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00114.mat
+- Assets/ArtResources/Effect/effect_commion_freed_trail.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi.png
+- Assets/ArtResources/Effect/Wave_island_6.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00115_lihua.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_020.mat
+- Assets/ArtResources/Effect/effect_tehuilv32_2.prefab
+- Assets/ArtWork/Effect/E_FBX/Luoxuanxian_001.FBX
+- Assets/ArtResources/Effect/effect_tehuilv22.prefab
+- Assets/ArtResources/Effect/effect_dan_1_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00376.mat
+- Assets/ArtWork/Effect/E_Texture/T_shanguang/shanguang_00126.png
+- Assets/ArtResources/Effect/effect_tehuilv22_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_lizi/UI_lizi_00080.png
+- Assets/ArtResources/Effect/effect_item_teleportdoor_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00002.png
+- Assets/ArtWork/Effect/Defense/Texture2D/e_thunder01.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/zhuanshi6.png
+- Assets/ArtResources/Effect/effect_ghost_statue.prefab
+- Assets/ArtResources/Effect/effect_tehuilv33.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/paopao_00144.mat
+- Assets/ArtResources/Effect/effect_guide_mission.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00298.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_eye.png
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/fire_xulie802.png
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00056.png
+- Assets/ArtWork/Shader/LightSin.shader
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/yanhuo_00094.png
+- Assets/ArtResources/Effect/effect_zhiyu_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00157.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_005.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/yanhuo_00006.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00067.png
+- Assets/ArtResources/Effect/effect_ghost_hit.prefab
+- Assets/ArtResources/Effect/effect_zhandou.prefab
+- Assets/ArtWork/Effect/E_FBX/Dan04.FBX
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00142.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_009.png
+- Assets/ArtResources/Effect/effect_tehui_3.prefab
+- Assets/ArtResources/Effect/effect_baoxiang_3.prefab
+- Assets/ArtResources/Effect/effect_build_home_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00354.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/Materials/yanhuo_00006.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00087.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/UI_lizi_00161.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/Materials/yanhuo_00094.mat
+- Assets/ArtResources/Effect/effect_ghost_click.prefab
+- Assets/ArtResources/Effect/effect_lzg.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Sweep/sweep_001.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_003.png
+- Assets/ArtResources/Effect/effect_xiayu.prefab
+- Assets/ArtResources/Effect/effect_csm_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Longmask.mat
+- Assets/ArtResources/Effect/effect_ghost_idle.prefab
+- Assets/ArtResources/Effect/effect_huoyan_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan4.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan3.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00358.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00205.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_020.png
+- Assets/ArtResources/Effect/effect_csm_3.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/Water_006_tex.mat
+- Assets/ArtResources/Effect/effect_gelunbu_2_1.prefab
+- Assets/ArtResources/Effect/effect_ghost_pollutehit.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_012.png
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00244.png
+- Assets/ArtResources/Effect/effect_animal_collect.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_001.png
+- Assets/ArtResources/Effect/effect_csm_5.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00194.mat
+- Assets/ArtWork/Effect/E_Texture/T_Sweep/Sweep_Mask.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00259.png
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Danshuijing.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_006.png
+- Assets/ArtResources/Effect/effect_pzhy.prefab
+- Assets/ArtResources/Effect/effect_smst.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00281.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/UI_lizi_00162.mat
+- Assets/ArtResources/Effect/effect_emo.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_002.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00005.mat
+- Assets/ArtResources/Effect/Wave_island_4.prefab
+- Assets/ArtResources/Effect/effect_gw.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00162.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00114.png
+- Assets/ArtWork/Effect/Defense/Texture2D/bretto_smoke_4_grey_sheet.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_eye.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/fangsheguang_00087.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00017.png
+- Assets/ArtWork/Effect/E_Animation/effect_xiaochansi.controller
+- Assets/ArtResources/Effect/effect_daoju_1.prefab
+- Assets/ArtResources/Effect/effect_item_foresttemple_01.prefab
+- Assets/ArtResources/Effect/effect_build_home.prefab
+- Assets/ArtResources/Effect/effect_gelunbu_4.prefab
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00165.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00005.png
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/Materials/T_xulie_002.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_017.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00022.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Water_006_tex.TGA
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_001.png
+- Assets/ArtResources/Effect/effect_jiaoyi_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/Path_003.mat
+- Assets/ArtResources/Effect/effect_jinwu.prefab
+- Assets/ArtResources/Effect/effect_tehuilv23.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00280.png
+- Assets/ArtResources/Effect/effect_wuran.prefab
+- Assets/ArtResources/Effect/effect_commion_freed.prefab
+- Assets/ArtResources/Effect/effect_diaoxiang_2.prefab
+- Assets/ArtResources/Effect/effect_smy1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Xulie/T_xulie_001.png
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00313.png
+- Assets/ArtResources/Effect/effect_gelunbu_1.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00114_distor 1.mat
+- Assets/ArtWork/Effect/EpicToonFX/Materials/cloud_magic.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00245.mat
+- Assets/ArtResources/Effect/Sea02.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wuti/wuti_019.png
+- Assets/ArtResources/Effect/effect_hecheng_1.prefab
+- Assets/ArtResources/Effect/effect_baoxiang_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00002.mat
+- Assets/ArtResources/Effect/effect_csm_4.prefab
+- Assets/ArtResources/Effect/effect_guide_tips.prefab
+- Assets/ArtWork/Effect/E_Texture/T_Dan/Materials/T_Dan04.mat
+- Assets/ArtWork/Effect/E_Texture/T_UI/Materials/T_UI01.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/Materials/fangsheguang_00178ANSE.mat
+- Assets/ArtResources/Effect/effect_ld_2.prefab
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_00376.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/path_005.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/Materials/trail_052.mat
+- Assets/ArtResources/Effect/effect_yizhan.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00016.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_liushui.mat
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00163.mat
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00358_03.mat
+- Assets/ArtWork/Effect/E_Texture/T_fangsheguang/guangci001.png
+- Assets/ArtResources/Effect/Wave_island_origin.prefab
+- Assets/ArtWork/Effect/E_Texture/T_wenli/Materials/wenli_00259.mat
+- Assets/ArtWork/Effect/E_Texture/T_Dan/T_Dan01.png
+- Assets/ArtResources/Effect/Wave_island_7.prefab
+- Assets/ArtResources/Effect/effect_xinzen.prefab
+- Assets/ArtResources/Effect/effect_item_generalfly.prefab
+- Assets/ArtWork/Effect/E_Texture/T_glow/Materials/glow_00114_Blend.mat
+- Assets/ArtWork/Effect/E_Texture/T_path/path_00376.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/lizi_00147.png
+- Assets/ArtWork/Effect/E_Texture/T_lizi/Materials/lizi_00147.mat
+- Assets/ArtWork/Effect/E_Texture/T_glow/glow_00001.png
+- Assets/ArtWork/Effect/E_Texture/T_Dan/xulie_015.png
+- Assets/ArtWork/Effect/E_Texture/T_wenli/wenli_00363.png
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_021.mat
+- Assets/ArtWork/Effect/E_Texture/T_yanhuo/Materials/yanhuo_00002.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_001.mat
+- Assets/ArtWork/Effect/E_Texture/T_wuti/Materials/wuti_011.mat
+- Assets/ArtResources/Effect/effect_item_lifespring.prefab
+Dependencies: []

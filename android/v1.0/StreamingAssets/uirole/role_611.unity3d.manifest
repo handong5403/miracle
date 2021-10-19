@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4032895996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3df9a5a2d650c6cf7c4a6b402f6ba70b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db5328b9d9f2eec99dff42510835c4c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UIRole/Role_611/Role_61107.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61108.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61104.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61106.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61102.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61105.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61109.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61103.prefab
+- Assets/ArtResources/UIRole/Role_611/Role_61110.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/tiger/tiger_1.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/tiger/tiger_2.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/roleres/tiger/tiger_3.unity3d

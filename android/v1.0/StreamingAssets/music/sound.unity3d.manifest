@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 4162428617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be53a679dd0c7fda3a27b70666ccced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Music/sound/ZomblinTowerHitByEnergyImpact.wav
+- Assets/ArtResources/Music/sound/TutorialTextSwitch.ogg
+- Assets/ArtResources/Music/sound/star2Edit.wav
+- Assets/ArtResources/Music/sound/dealerReady.ogg
+- Assets/ArtResources/Music/sound/DiggingCantUse.ogg
+- Assets/ArtResources/Music/sound/TakeDiggingCoin.ogg
+- Assets/ArtResources/Music/sound/LettersRead.ogg
+- Assets/ArtResources/Music/sound/FlyInCoins.ogg
+- Assets/ArtResources/Music/sound/MenuSoundMonoEdit.wav
+- Assets/ArtResources/Music/sound/NewTask.ogg
+- Assets/ArtResources/Music/sound/BigWow.ogg
+- Assets/ArtResources/Music/sound/airLightFly.ogg
+- Assets/ArtResources/Music/sound/christmas_TNTPart1.ogg
+- Assets/ArtResources/Music/sound/ClickButton.ogg
+- Assets/ArtResources/Music/sound/bgm_victory5.wav
+- Assets/ArtResources/Music/sound/CollectField1.ogg
+- Assets/ArtResources/Music/sound/SelectField.ogg
+- Assets/ArtResources/Music/sound/FlyInResource.ogg
+- Assets/ArtResources/Music/sound/Spinner2Stopped.wav
+- Assets/ArtResources/Music/sound/GiftTake.ogg
+- Assets/ArtResources/Music/sound/AcceptFriend.wav
+- Assets/ArtResources/Music/sound/IslandsExpandFinish.ogg
+- Assets/ArtResources/Music/sound/yx053.wav
+- Assets/ArtResources/Music/sound/bgm_victory4.wav
+- Assets/ArtResources/Music/sound/Wow.ogg
+- Assets/ArtResources/Music/sound/bgm_victory1.wav
+- Assets/ArtResources/Music/sound/yx055.wav
+- Assets/ArtResources/Music/sound/OpenDiggingChest.ogg
+- Assets/ArtResources/Music/sound/MintReady.ogg
+- Assets/ArtResources/Music/sound/FadeDiggingChestOpened.ogg
+- Assets/ArtResources/Music/sound/star1Edit.wav
+- Assets/ArtResources/Music/sound/bgm_victory2.wav
+- Assets/ArtResources/Music/sound/ReadyButton.ogg
+- Assets/ArtResources/Music/sound/star3Edit.wav
+- Assets/ArtResources/Music/sound/AstralaudioGhostAppearanceEdit.wav
+- Assets/ArtResources/Music/sound/VagonFullClick.ogg
+- Assets/ArtResources/Music/sound/FlyInExp.ogg
+- Assets/ArtResources/Music/sound/WinLevelUp1.wav
+- Assets/ArtResources/Music/sound/YouWinEdit.wav
+- Assets/ArtResources/Music/sound/bgm_victory3.wav
+- Assets/ArtResources/Music/sound/christmas_PickRock1.ogg
+- Assets/ArtResources/Music/sound/EventFinalWin.ogg
+- Assets/ArtResources/Music/sound/ArrowOut.ogg
+- Assets/ArtResources/Music/sound/HammeringonAnvil2.wav
+- Assets/ArtResources/Music/sound/SpecialSting2.wav
+- Assets/ArtResources/Music/sound/Magic3.wav
+- Assets/ArtResources/Music/sound/PickRock2.ogg
+- Assets/ArtResources/Music/sound/airLampLight.ogg
+- Assets/ArtResources/Music/sound/mooneventrewardobtained.wav
+- Assets/ArtResources/Music/sound/WaterFall.ogg
+- Assets/ArtResources/Music/sound/PickUse.ogg
+- Assets/ArtResources/Music/sound/mooneventresourcemerged.wav
+- Assets/ArtResources/Music/sound/harvestSickle.ogg
+- Assets/ArtResources/Music/sound/Spray.ogg
+- Assets/ArtResources/Music/sound/Harvest.ogg
+Dependencies: []

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4124266759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fa64f0436e2b79ccfd1dbd18150cb71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b48d9e518a493fbd8ceaaab2f7727023
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/RoleBag/Item/AnimationPageItem.prefab
+- Assets/ArtResources/UI/Prefab/RoleBag/Item/AnimalBookItem.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/home.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/mode_1.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/rolebag.unity3d

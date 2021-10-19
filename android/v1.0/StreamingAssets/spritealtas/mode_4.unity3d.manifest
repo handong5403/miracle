@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3122056607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b5404170bb7e9c7fdd91073d4409e7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfb87d18134d160e3a907b7674713721
+HashAppended: 0
+ClassTypes:
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/SpriteAltas/mode_4/mode_4.spriteatlas
+Dependencies: []

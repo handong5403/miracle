@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 816854275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e69976a57e310b3cb68cbf430df51e58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a2eb74e0559ef57955f05c62a3fc9bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg4.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/explore_04.prefab
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg2.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg5.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg1.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bxg2.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/tshd2.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg3.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bxg1.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/explore_01.prefab
+- Assets/ArtResources/OrderResources/Activitylevel_explore/explore_03.prefab
+- Assets/ArtResources/OrderResources/Activitylevel_explore/explore_02.prefab
+- Assets/ArtResources/OrderResources/Activitylevel_explore/tshd1.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/bg6.png
+- Assets/ArtResources/OrderResources/Activitylevel_explore/explore_05.prefab
+Dependencies: []

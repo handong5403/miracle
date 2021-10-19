@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 492552495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5583f26af8bd34992ccf942ebef0d908
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c739bf9b6ec91156d7cd68d9448b0a25
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/RoleRes/trendbunny/lv7-lv9/trendbunny_Lv7_Lv9.skel.bytes
+- Assets/ArtResources/RoleRes/trendbunny/lv7-lv9/trendbunny_Lv7_Lv9_Atlas.asset
+- Assets/ArtResources/RoleRes/trendbunny/lv7-lv9/trendbunny_Lv7_Lv9_SkeletonData.asset
+- Assets/ArtResources/RoleRes/trendbunny/lv7-lv9/trendbunny_Lv7_Lv9_Material.mat
+- Assets/ArtResources/RoleRes/trendbunny/lv7-lv9/trendbunny_Lv7_Lv9.png
+Dependencies: []

@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 544592537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac5ab69400ceb973edbfdcd9a54d451f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8e7810fd6f41b9b156a6f8811ac8893
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aaa8d5078f496f40a435abcbfb0542b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca86fc57535713941bde4b92d7bec3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65351ff81f0a16b47bbc6fd59df7777e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee307ff596bd4fa6b4b6c7cac7b1afae, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/UI/Prefab/Main/Main_Social.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_ActivityEnt.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_ActivityPassPortEnt.prefab
+- Assets/Unity-Logs-Viewer-master/Reporter/Images/user.png
+- Assets/ArtResources/UI/Prefab/Main/Main_SystemEntrance.prefab
+- Assets/ArtResources/UI/Prefab/Main/DragonpowerView.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_go_worldmap.prefab
+- Assets/ArtResources/UI/Prefab/Main/Main_ActivityEnt.prefab
+- Assets/ArtResources/UI/Prefab/Main/CoinView.prefab
+- Assets/ArtResources/UI/Prefab/Main/MainNewView.prefab
+- Assets/ArtResources/UI/Prefab/Main/Task_ems.prefab
+- Assets/ArtResources/UI/Prefab/Main/Common_Task.prefab
+- Assets/ArtResources/UI/Prefab/Main/deleteview.prefab
+- Assets/ArtResources/UI/Prefab/Main/BookhintView.prefab
+- Assets/ArtResources/UI/Prefab/Main/StoneView.prefab
+- Assets/ArtResources/UI/Prefab/Main/ScrollhintNoticeView.prefab
+- Assets/ArtResources/UI/Prefab/Main/Main_BsttirtScore.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_RechargeCardEnt.prefab
+- Assets/ArtResources/UI/Prefab/Main/bth_go_SET.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_EnergyButton.prefab
+- Assets/ArtResources/UI/Prefab/Main/Unlockchestview.prefab
+- Assets/ArtResources/UI/Prefab/Main/btn_Activityexplore.prefab
+Dependencies:
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/spritealtas/guide.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/common.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/goldroom.unity3d
+- E:/Poject/client/projectX/Assets/StreamingAssets/ui/prefab/main/itemview.unity3d

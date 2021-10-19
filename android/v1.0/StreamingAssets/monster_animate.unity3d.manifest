@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3764383527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffd583d43daf31b76341f19c99d9d32c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtResources/Animation/Monster_1/born.anim
+- Assets/ArtResources/Animation/Monster_1/dead.anim
+- Assets/ArtResources/Animation/Monster_1/idle.anim
+- Assets/ArtResources/Animation/Monster_1/beAttacked.anim
+- Assets/ArtResources/Animation/Monster_3/Monster_3.controller
+- Assets/ArtResources/Animation/Monster_3/Monster_3.anim
+- Assets/ArtResources/Animation/Monster_2/born.anim
+- Assets/ArtResources/Animation/Monster_3/idle.anim
+- Assets/ArtResources/Animation/Monster_4/contaminate.anim
+- Assets/ArtResources/Animation/Monster_2/dead.anim
+- Assets/ArtResources/Animation/Monster_2/idle.anim
+- Assets/ArtResources/Animation/Monster_2/attack.anim
+- Assets/ArtResources/Animation/Monster_3/contaminate.anim
+- Assets/ArtResources/Animation/Monster_4/Monster_4.controller
+- Assets/ArtResources/Animation/Monster_3/dead.anim
+- Assets/ArtResources/Animation/Monster_3/born.anim
+- Assets/ArtResources/Animation/Monster_2/beAttacked.anim
+- Assets/ArtResources/Animation/Monster_4/born.anim
+- Assets/ArtResources/Animation/Monster_2/Monster_2.anim
+- Assets/ArtResources/Animation/Monster_4/beAttacked.anim
+- Assets/ArtResources/Animation/Monster_1/contaminate.anim
+- Assets/ArtResources/Animation/Monster_3/beAttacked.anim
+- Assets/ArtResources/Animation/Monster_4/Monster_4.anim
+- Assets/ArtResources/Animation/Monster_4/idle.anim
+- Assets/ArtResources/Animation/Monster_1/attack.anim
+- Assets/ArtResources/Animation/Monster_4/dead.anim
+- Assets/ArtResources/Animation/Monster_4/attack.anim
+- Assets/ArtResources/Animation/Monster_1/Zomblin_Brute_Body.controller
+- Assets/ArtResources/Animation/Monster_2/Monster_2.controller
+- Assets/ArtResources/Animation/Monster_3/attack.anim
+- Assets/ArtResources/Animation/Monster_2/contaminate.anim
+Dependencies: []
